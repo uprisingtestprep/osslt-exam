@@ -1,0 +1,3002 @@
+[
+  {
+    "id": 1,
+    "domain": "real_life_narrative_reading",
+    "front": "What three reading skills does every OSSLT reading question test?",
+    "back": "Every OSSLT reading question tests understanding of explicit information, understanding of implicit information (making inferences), and making connections between the passage and outside knowledge or experience."
+  },
+  {
+    "id": 2,
+    "domain": "real_life_narrative_reading",
+    "front": "What does it mean when OSSLT theory calls a detail 'explicit'?",
+    "back": "Explicit means the answer is written directly in the passage in plain words. You do not need to guess or read between the lines, you just need to locate it accurately."
+  },
+  {
+    "id": 3,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the main trap in explicit understanding questions?",
+    "back": "The information itself is not hidden, but the passage often contains several similar dates, names, or numbers close together, so the trap is finding the exact right detail rather than a similar-looking one."
+  },
+  {
+    "id": 4,
+    "domain": "real_life_narrative_reading",
+    "front": "What does it mean when a passage tests 'implicit' understanding?",
+    "back": "Implicit means the passage does not state something directly, but gives enough clues for the reader to figure it out. This is called making an inference."
+  },
+  {
+    "id": 5,
+    "domain": "real_life_narrative_reading",
+    "front": "What is an inference, and where must its evidence come from?",
+    "back": "An inference is a conclusion reached using evidence from the text combined with logical reasoning. Every piece of evidence must come from the passage itself, never from outside opinions or assumptions."
+  },
+  {
+    "id": 6,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a local inference?",
+    "back": "A local inference is based on one specific sentence or paragraph, such as inferring a character is upset because she slammed a door, even though the word 'upset' never appears."
+  },
+  {
+    "id": 7,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a global inference?",
+    "back": "A global inference is based on the passage as a whole, most commonly used for theme questions, where the conclusion is built from a pattern across the entire passage rather than one moment."
+  },
+  {
+    "id": 8,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the most important rule for answering any inference question?",
+    "back": "Your answer must be provable using only what is written in the passage. If you catch yourself thinking about what something usually means in real life, stop, because that is not textual evidence."
+  },
+  {
+    "id": 9,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the third OSSLT reading skill, making connections?",
+    "back": "Making connections means taking an idea from the passage and connecting it to something broader, such as a general lesson or real-world application, while still keeping the connection clearly supported by the passage."
+  },
+  {
+    "id": 10,
+    "domain": "real_life_narrative_reading",
+    "front": "How is a connection question different from an inference question?",
+    "back": "An inference question asks you to figure out something the passage strongly implies but does not say outright, staying tightly focused on the text. A connection question asks you to stretch a specific detail into a broader general principle."
+  },
+  {
+    "id": 11,
+    "domain": "real_life_narrative_reading",
+    "front": "How do the three OSSLT reading skills relate to each other, using the pyramid idea?",
+    "back": "Explicit understanding is the base, made of concrete stated facts. Inference sits in the middle, built on those facts through local and global reasoning. Making connections sits at the top, stretching the passage's ideas outward."
+  },
+  {
+    "id": 12,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a single selection question on the OSSLT?",
+    "back": "A single selection question gives a question and a list of choices, usually four, and asks you to pick the one best answer."
+  },
+  {
+    "id": 13,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a multiple selection question, and what is the key rule for answering it?",
+    "back": "A multiple selection question asks you to choose more than one correct answer from a list. You must select exactly the number the question specifies, since selecting too few or too many costs marks even if some choices are correct."
+  },
+  {
+    "id": 14,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a drag and drop question on the OSSLT?",
+    "back": "A drag and drop question asks you to move items, such as sentences or events, into a specific order or matching category, often putting narrative events into the order they actually happened."
+  },
+  {
+    "id": 15,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a drop down menu question?",
+    "back": "A drop down menu question embeds a small menu inside a sentence, and you choose the correct word or phrase from a list to complete the sentence correctly based on the passage."
+  },
+  {
+    "id": 16,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a checklist question on the OSSLT?",
+    "back": "A checklist question has you confirm which of several statements are true or false based on the passage, so each item should be checked individually against the text rather than trusted from memory."
+  },
+  {
+    "id": 17,
+    "domain": "real_life_narrative_reading",
+    "front": "Why should you skim a passage before reading it closely?",
+    "back": "Skimming the title, first sentence of each paragraph, and any headings for about thirty seconds gives a rough map of the passage before you commit to reading every word carefully."
+  },
+  {
+    "id": 18,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a keyword trap in OSSLT wrong answer choices?",
+    "back": "A keyword trap is built by taking a real detail from the passage and changing one small thing, like a number, name, or direction, so it looks correct at a glance but is not accurate."
+  },
+  {
+    "id": 19,
+    "domain": "real_life_narrative_reading",
+    "front": "What strategy helps most with single and multiple selection questions?",
+    "back": "Eliminate before you select: cross out any choice that is clearly wrong first, which improves your odds and often makes the correct answer more obvious."
+  },
+  {
+    "id": 20,
+    "domain": "real_life_narrative_reading",
+    "front": "How should you manage your time across an OSSLT reading section?",
+    "back": "Manage your time by section, not by question. Check your pace after each passage instead of timing individual questions, and move on and return later if one question takes too long."
+  },
+  {
+    "id": 21,
+    "domain": "real_life_narrative_reading",
+    "front": "Should you ever leave an OSSLT question blank?",
+    "back": "No. There is no penalty for guessing wrong, so an educated guess using elimination always gives a better chance than leaving a question empty."
+  },
+  {
+    "id": 22,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a real-life narrative passage?",
+    "back": "A real-life narrative is a passage that tells a story about something that feels real, usually written in first person about an ordinary experience such as starting a job or overcoming a fear."
+  },
+  {
+    "id": 23,
+    "domain": "real_life_narrative_reading",
+    "front": "What point of view is most common in OSSLT real-life narrative passages?",
+    "back": "First person is far more common, using words like 'I,' 'me,' and 'my,' though some narratives are written in third person following one main character closely."
+  },
+  {
+    "id": 24,
+    "domain": "real_life_narrative_reading",
+    "front": "Name the five defining features of a real-life narrative passage.",
+    "back": "The five features are personal voice and tone, chronological or reflective structure, sensory and emotional detail, a turning point, and a lesson learned or insight gained."
+  },
+  {
+    "id": 25,
+    "domain": "real_life_narrative_reading",
+    "front": "What is meant by 'personal voice and tone' in a real-life narrative?",
+    "back": "The narrator shares their own thoughts and feelings directly, often using phrases like 'I felt nervous,' giving the passage an honest, personal tone."
+  },
+  {
+    "id": 26,
+    "domain": "real_life_narrative_reading",
+    "front": "What does 'chronological or reflective structure' mean in a narrative passage?",
+    "back": "Most narratives move through events in the order they happened, and many end with a moment of reflection where the narrator looks back and explains what the experience meant to them."
+  },
+  {
+    "id": 27,
+    "domain": "real_life_narrative_reading",
+    "front": "Why does a real-life narrative include sensory and emotional detail?",
+    "back": "Descriptive detail such as a smell, a sound, or a physical feeling is not just decoration. It helps the reader understand the narrator's emotional state at that moment."
+  },
+  {
+    "id": 28,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is finding the turning point useful when reading a narrative?",
+    "back": "Almost every real-life narrative includes a moment where something shifts, such as a decision or realization, and this moment is one of the most heavily tested parts of the passage."
+  },
+  {
+    "id": 29,
+    "domain": "real_life_narrative_reading",
+    "front": "What is usually the central idea of a real-life narrative passage?",
+    "back": "The lesson learned or insight the narrator gains by the end, since the narrator usually understands something at the end that they did not understand at the beginning."
+  },
+  {
+    "id": 30,
+    "domain": "real_life_narrative_reading",
+    "front": "What strategy helps you follow events in a narrative passage?",
+    "back": "Track the sequence of events by lightly noting time-signal words like 'at first,' 'later that day,' or 'by the end of the summer,' which act as signposts marking the story's shape."
+  },
+  {
+    "id": 31,
+    "domain": "real_life_narrative_reading",
+    "front": "Why should you notice shifts in a narrator's feelings while reading?",
+    "back": "Feelings often change more than once during a narrative and usually line up with the turning point, so tracking emotional shifts often leads straight to the main idea."
+  },
+  {
+    "id": 32,
+    "domain": "real_life_narrative_reading",
+    "front": "How can you find the lesson in a narrative if it is never stated directly?",
+    "back": "Look at what the narrator does differently at the end compared to the beginning. That change in behaviour often reveals the lesson even without a direct statement."
+  },
+  {
+    "id": 33,
+    "domain": "real_life_narrative_reading",
+    "front": "What is figurative language, and what are its two common types?",
+    "back": "Figurative language means words not meant to be taken literally. A simile compares two things using 'like' or 'as,' while a metaphor compares two things without using 'like' or 'as.'"
+  },
+  {
+    "id": 34,
+    "domain": "real_life_narrative_reading",
+    "front": "Give an example of a simile and explain what it usually reveals in a narrative.",
+    "back": "'My legs felt like jelly' is a simile. In OSSLT narratives, figurative language almost always shows how the narrator feels inside rather than describing something visually."
+  },
+  {
+    "id": 35,
+    "domain": "real_life_narrative_reading",
+    "front": "What are the five stages of a typical real-life narrative arc?",
+    "back": "The five stages are the situation, the rising action, the turning point, the resolution, and the reflection."
+  },
+  {
+    "id": 36,
+    "domain": "real_life_narrative_reading",
+    "front": "What happens during the 'situation' stage of a narrative arc?",
+    "back": "The narrator sets up the circumstances of the story, such as where they are and what is about to happen."
+  },
+  {
+    "id": 37,
+    "domain": "real_life_narrative_reading",
+    "front": "What happens during the 'rising action' stage of a narrative arc?",
+    "back": "Something starts to go differently than expected, building tension or excitement as the story moves toward its turning point."
+  },
+  {
+    "id": 38,
+    "domain": "real_life_narrative_reading",
+    "front": "What happens during the 'resolution' stage of a narrative arc?",
+    "back": "The resolution is where the reader learns how the events of the turning point turned out."
+  },
+  {
+    "id": 39,
+    "domain": "real_life_narrative_reading",
+    "front": "What happens during the 'reflection' stage of a narrative arc?",
+    "back": "The narrator explains, directly or indirectly, what they learned from the whole experience, often revealing the passage's theme."
+  },
+  {
+    "id": 40,
+    "domain": "real_life_narrative_reading",
+    "front": "What is Trap 1 in real-life narrative questions?",
+    "back": "Trap 1 is confusing what the narrator felt with what they said or did, since a narrator can act calm on the outside while feeling something different inside."
+  },
+  {
+    "id": 41,
+    "domain": "real_life_narrative_reading",
+    "front": "What is Trap 2 in real-life narrative questions?",
+    "back": "Trap 2 is mistaking a supporting detail for the main idea. Small details build the world of the story but are not the central lesson or theme."
+  },
+  {
+    "id": 42,
+    "domain": "real_life_narrative_reading",
+    "front": "What is Trap 3 in real-life narrative questions?",
+    "back": "Trap 3 is choosing the most emotional-sounding option instead of the most accurate one. Always trace your answer to specific evidence rather than picking what feels dramatic."
+  },
+  {
+    "id": 43,
+    "domain": "real_life_narrative_reading",
+    "front": "What is Trap 4 in real-life narrative questions?",
+    "back": "Trap 4 is ignoring the turning point. Skipping past this moment can cause you to miss key evidence needed for both local and global inference questions."
+  },
+  {
+    "id": 44,
+    "domain": "real_life_narrative_reading",
+    "front": "What is Trap 5 in real-life narrative questions?",
+    "back": "Trap 5 is overthinking simple explicit-detail questions. If a question can be answered by locating one sentence, trust the text instead of talking yourself into a more complicated answer."
+  },
+  {
+    "id": 45,
+    "domain": "real_life_narrative_reading",
+    "front": "In the sample passage 'My First Shift,' what detail is explicitly stated about the narrator's uniform?",
+    "back": "The passage states directly that the narrator wore a bright green polo shirt that still had fold lines pressed into it from the package."
+  },
+  {
+    "id": 46,
+    "domain": "real_life_narrative_reading",
+    "front": "In 'My First Shift,' what can be inferred about the older customer's attitude toward the narrator's coupon mistake?",
+    "back": "He was understanding and tried to reassure the narrator, shown through his words 'Take your time' and 'I remember my first job. Everybody was patient with me too.'"
+  },
+  {
+    "id": 47,
+    "domain": "real_life_narrative_reading",
+    "front": "In 'My First Shift,' what is the central lesson the narrator learns by the end of the passage?",
+    "back": "Being new at something does not mean being bad at it, and mistakes do not mean failure."
+  },
+  {
+    "id": 48,
+    "domain": "real_life_narrative_reading",
+    "front": "In 'My First Shift,' what does the simile 'my mind felt like a blank page' suggest?",
+    "back": "It suggests the narrator's memory of the training suddenly felt completely empty, reinforcing that all the training information seemed to vanish in a stressful moment."
+  },
+  {
+    "id": 49,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a 'connection' question typically asking in a real-life narrative passage?",
+    "back": "It asks you to link the passage's emotional experience or idea to a similar real-life experience a reader might have had, focusing on matching the feeling rather than the surface topic."
+  },
+  {
+    "id": 50,
+    "domain": "real_life_narrative_reading",
+    "front": "Why should sensory and emotional detail never be mistaken for the main point of a narrative?",
+    "back": "These details make the story feel realistic and help show emotion, but the main idea is usually the broader lesson revealed through the whole arc, not one descriptive detail."
+  },
+  {
+    "id": 51,
+    "domain": "real_life_narrative_reading",
+    "front": "What kind of topics does a real-life narrative on the OSSLT usually cover?",
+    "back": "Ordinary experiences grounded in real life, such as starting a new job, moving to a new city, trying out for a team, learning to drive, or overcoming a fear."
+  },
+  {
+    "id": 52,
+    "domain": "real_life_narrative_reading",
+    "front": "How does the narrator's tone usually feel in a real-life narrative?",
+    "back": "Honest and personal, almost as though the narrator is talking directly to a friend, because the narrator shares their own thoughts and feelings openly."
+  },
+  {
+    "id": 53,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is reading the questions before the passage sometimes a useful strategy?",
+    "back": "It tells you what to look for as you read, so you do not have to reread the whole passage later, though this personal strategy will not suit every student equally."
+  },
+  {
+    "id": 54,
+    "domain": "real_life_narrative_reading",
+    "front": "What should you do if one narrative question is taking much longer than the others?",
+    "back": "Mark your best guess, move on, and come back to it later if time remains at the end, rather than losing time you need for the rest of the section."
+  },
+  {
+    "id": 55,
+    "domain": "real_life_narrative_reading",
+    "front": "According to Chapter 1, how does a news report use the same three reading skills as other passages?",
+    "back": "A news report might test connections by asking what a specific local event suggests about a wider issue, even though its surface style looks different from a narrative."
+  },
+  {
+    "id": 56,
+    "domain": "real_life_narrative_reading",
+    "front": "According to Chapter 1, how might a dialogue passage test local inference?",
+    "back": "A dialogue passage might test local inference by asking what a character's tone of voice suggests about how they feel, even though the feeling is never stated outright."
+  },
+  {
+    "id": 57,
+    "domain": "real_life_narrative_reading",
+    "front": "What three questions should you keep asking yourself while reading any OSSLT passage?",
+    "back": "What does the passage state directly? What can I reasonably infer, locally or globally, using only evidence from the text? What broader connection can I draw from this idea?"
+  },
+  {
+    "id": 58,
+    "domain": "real_life_narrative_reading",
+    "front": "Why are the four OSSLT passage types considered to test the same underlying skills?",
+    "back": "A real-life narrative, an information paragraph, a news report, and a dialogue all use explicit understanding, inference, and connection questions underneath their different surface styles."
+  },
+  {
+    "id": 59,
+    "domain": "real_life_narrative_reading",
+    "front": "What should you compare an answer choice against before selecting it on an explicit detail question?",
+    "back": "Compare the answer choice word for word against the exact sentence in the passage rather than trusting your memory of what you read."
+  },
+  {
+    "id": 60,
+    "domain": "real_life_narrative_reading",
+    "front": "Why do narrative passages sometimes include small, unimportant details like a character's backpack colour?",
+    "back": "These details make the story feel realistic, but you should notice they exist without confusing them with the passage's main point."
+  },
+  {
+    "id": 61,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the danger of choosing an answer because it 'sounds right in real life' on an inference question?",
+    "back": "OSSLT inferences must be provable using only the text. An answer based on general real-world assumptions rather than passage evidence is not a valid inference."
+  },
+  {
+    "id": 62,
+    "domain": "real_life_narrative_reading",
+    "front": "In the sample passage 'My First Shift,' what event marks the story's turning point?",
+    "back": "The moment the narrator struggles to process the older customer's coupons and panics, until the customer's calm reassurance and the manager's help resolve the situation."
+  },
+  {
+    "id": 63,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the difference between a fact stated by a narrator and a feeling shown through action?",
+    "back": "A stated fact is written directly in the text, while a feeling shown through action, like slamming a door, must be inferred from behaviour rather than read as a direct statement."
+  },
+  {
+    "id": 64,
+    "domain": "real_life_narrative_reading",
+    "front": "Why does EQAO use several different interface formats for reading questions instead of just one?",
+    "back": "The different formats are not designed to trick you through technology. They are simply different containers for showing the same three underlying reading skills."
+  },
+  {
+    "id": 65,
+    "domain": "real_life_narrative_reading",
+    "front": "What should you do first when a new drag and drop reordering question appears?",
+    "back": "Read the whole passage first before attempting to reorder anything, since dragging based on a half-formed memory of the passage often leads to mistakes."
+  },
+  {
+    "id": 66,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is it risky to trust your memory instead of rereading the passage on checklist questions?",
+    "back": "Checklist items should be confirmed individually against the passage, since trusting memory over the actual text increases the chance of marking an item incorrectly."
+  },
+  {
+    "id": 67,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the danger of overstating an answer choice into an absolute claim, such as saying something is 'the only way'?",
+    "back": "An answer that turns a passage's specific evidence into an absolute claim overstates what the text actually supports and is usually incorrect on connection questions."
+  },
+  {
+    "id": 68,
+    "domain": "real_life_narrative_reading",
+    "front": "Why might a real-life narrative jump back in time briefly instead of staying perfectly chronological?",
+    "back": "Some narratives include the narrator remembering something from the past in the middle of the story, though the overall shape still usually moves forward in time."
+  },
+  {
+    "id": 69,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the purpose of the concluding reflection often found at the end of a real-life narrative?",
+    "back": "The narrator looks back and explains, directly or indirectly, what the experience meant to them, which usually reveals the passage's central theme or lesson."
+  },
+  {
+    "id": 70,
+    "domain": "real_life_narrative_reading",
+    "front": "How can you tell the difference between a narrator's internal feeling and an external action in a narrative passage?",
+    "back": "Check whether the question is asking about the narrator's emotions, their words, or their behaviour, since these are not always the same thing in a narrative."
+  },
+  {
+    "id": 71,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is 'proud' a reasonable inference for the teenagers in the skate park passage even though the word never appears?",
+    "back": "The passage gives strong supporting evidence, including two years of fundraising, a public ribbon cutting, and a quote about creating real change, all pointing toward pride."
+  },
+  {
+    "id": 72,
+    "domain": "real_life_narrative_reading",
+    "front": "In the skate park passage, why is answer C wrong for a connection question that overstates fundraising as 'the only way' to build public spaces?",
+    "back": "It overstates the passage's point into an absolute claim, since the passage never claims fundraising is the only method that works for building public spaces."
+  },
+  {
+    "id": 73,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the purpose of a worked example showing both an explicit and an inference question on the same passage?",
+    "back": "It shows how the same passage can be tested at different depths, from locating a stated fact to reasoning through evidence that is only implied."
+  },
+  {
+    "id": 74,
+    "domain": "real_life_narrative_reading",
+    "front": "Why should you slow down when you sense a narrative shifting in tone or direction?",
+    "back": "Slowing down at a shift helps you notice the turning point, which usually holds key evidence for inference questions about the narrator's feelings or the passage's theme."
+  },
+  {
+    "id": 75,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the risk of picking the most dramatic-sounding answer on a narrative theme question?",
+    "back": "Test makers sometimes include an answer that sounds exciting but is not supported by the passage, so accuracy should always outweigh emotional appeal."
+  },
+  {
+    "id": 76,
+    "domain": "real_life_narrative_reading",
+    "front": "Why does the OSSLT test both local and global inference rather than only one type?",
+    "back": "Local inference checks careful reading of a single moment, while global inference checks whether you can recognize a pattern or theme built across an entire passage."
+  },
+  {
+    "id": 77,
+    "domain": "real_life_narrative_reading",
+    "front": "What is a common feature of the closing paragraph in a real-life narrative?",
+    "back": "The closing paragraph usually contains the reflection stage, where the narrator states or implies the lesson learned from the whole experience."
+  },
+  {
+    "id": 78,
+    "domain": "real_life_narrative_reading",
+    "front": "How does a real-life narrative differ from an information paragraph in tone?",
+    "back": "A real-life narrative has a personal, emotional voice, while an information paragraph stays neutral and factual without sharing personal feelings."
+  },
+  {
+    "id": 79,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is it useful to notice when a narrator's feelings change more than once in a passage?",
+    "back": "Multiple emotional shifts often map onto the story's arc, helping you locate the turning point and the eventual lesson learned."
+  },
+  {
+    "id": 80,
+    "domain": "real_life_narrative_reading",
+    "front": "What should you do if you cannot find a sentence stating the narrator's lesson directly?",
+    "back": "Look at how the narrator's actions or attitude differ between the beginning and the end of the passage, since that change often reveals the lesson."
+  },
+  {
+    "id": 81,
+    "domain": "real_life_narrative_reading",
+    "front": "Why is 'Anaya says the park proves young people can create real change' considered evidence for a connection question rather than an inference question?",
+    "back": "It is used to support a broader general truth about community projects, which is the kind of wider stretch that a connection question asks for rather than a narrower inference."
+  },
+  {
+    "id": 82,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the safest approach when a real-life narrative question and a connection question both seem to fit an answer choice?",
+    "back": "Check whether the choice stays tightly tied to the passage's specific evidence (inference) or stretches the idea into a wider general principle (connection), and match the choice to what the question is actually asking."
+  },
+  {
+    "id": 83,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the difference between a topic and a theme in a real-life narrative?",
+    "back": "A topic is the general subject the story is about, such as a first job, while the theme is the deeper lesson or insight the narrator draws from that experience."
+  },
+  {
+    "id": 84,
+    "domain": "real_life_narrative_reading",
+    "front": "Why should you avoid bringing personal opinions into an OSSLT inference answer?",
+    "back": "An inference must be supported entirely by evidence in the passage. Personal opinions or outside assumptions are not valid support, even if they feel reasonable."
+  },
+  {
+    "id": 85,
+    "domain": "real_life_narrative_reading",
+    "front": "What is the benefit of predicting what a real-life narrative will be about before reading it closely?",
+    "back": "A quick skim of the opening gives you a rough map of the story's setting and situation, which makes close reading faster and helps you notice the turning point when it arrives."
+  },
+  {
+    "id": 86,
+    "domain": "information_paragraph_reading",
+    "front": "What is an information paragraph on the OSSLT?",
+    "back": "An information paragraph is a short factual text that explains something, such as how a machine works or an overview of a topic, with the sole goal of teaching the reader facts clearly."
+  },
+  {
+    "id": 87,
+    "domain": "information_paragraph_reading",
+    "front": "How is an information paragraph different from a news report?",
+    "back": "An information paragraph explains general facts about a topic rather than telling about a specific event that happened on a specific day, which is what a news report does."
+  },
+  {
+    "id": 88,
+    "domain": "information_paragraph_reading",
+    "front": "How is an information paragraph different from a persuasive or opinion piece?",
+    "back": "An information paragraph does not try to persuade the reader of anything. It stays neutral and factual, while a persuasive piece tries to convince the reader to believe or do something."
+  },
+  {
+    "id": 89,
+    "domain": "information_paragraph_reading",
+    "front": "What tone does an information paragraph usually have?",
+    "back": "A neutral tone. The writer sounds like a teacher or reference book sharing accurate facts in a steady, even voice, without trying to make the reader feel excited or worried."
+  },
+  {
+    "id": 90,
+    "domain": "information_paragraph_reading",
+    "front": "What phrases signal that a passage might be persuasive rather than a neutral information paragraph?",
+    "back": "Phrases like 'you should,' 'everyone must,' or 'this is the best way' signal a persuasive or opinion-based text rather than a neutral information paragraph."
+  },
+  {
+    "id": 91,
+    "domain": "information_paragraph_reading",
+    "front": "What two parts make up the basic structure of an information paragraph?",
+    "back": "A topic sentence, which states the main idea, and a series of supporting details, which are facts, examples, numbers, or explanations that back up that main idea."
+  },
+  {
+    "id": 92,
+    "domain": "information_paragraph_reading",
+    "front": "What is the role of a topic sentence in an information paragraph?",
+    "back": "The topic sentence is the 'big picture' statement that tells the reader the main idea of the whole paragraph or passage."
+  },
+  {
+    "id": 93,
+    "domain": "information_paragraph_reading",
+    "front": "What is the role of supporting details in an information paragraph?",
+    "back": "Supporting details are the 'zoomed in' evidence, such as specific facts or examples, that back up and expand on the topic sentence."
+  },
+  {
+    "id": 94,
+    "domain": "information_paragraph_reading",
+    "front": "Is the topic sentence always the very first sentence of an information paragraph?",
+    "back": "Not always. A writer sometimes opens with a hook, such as an interesting fact or short question, and states the main idea in the second or third sentence."
+  },
+  {
+    "id": 95,
+    "domain": "information_paragraph_reading",
+    "front": "What is sequence structure in an information paragraph?",
+    "back": "Sequence structure explains steps in order, usually using words like first, next, then, after that, and finally, common when explaining a process."
+  },
+  {
+    "id": 96,
+    "domain": "information_paragraph_reading",
+    "front": "What is cause and effect structure in an information paragraph?",
+    "back": "Cause and effect structure explains why something happens and what results from it, using words like because, as a result, therefore, and due to."
+  },
+  {
+    "id": 97,
+    "domain": "information_paragraph_reading",
+    "front": "What is compare and contrast structure in an information paragraph?",
+    "back": "Compare and contrast structure looks at two or more things and shows similarities or differences, using words like similarly, in contrast, however, both, and unlike."
+  },
+  {
+    "id": 98,
+    "domain": "information_paragraph_reading",
+    "front": "What is description structure in an information paragraph?",
+    "back": "Description structure lays out facts and details about a single topic without a strong step-by-step or cause-and-effect focus, often moving from general to specific information."
+  },
+  {
+    "id": 99,
+    "domain": "information_paragraph_reading",
+    "front": "Can an information paragraph blend more than one organizational pattern?",
+    "back": "Yes. A passage might use sequence to explain stages of a process and cause and effect to explain why something happens within that process, so signal words matter more than a single label."
+  },
+  {
+    "id": 100,
+    "domain": "information_paragraph_reading",
+    "front": "What is step one of the strategic approach to reading an information paragraph?",
+    "back": "Read the title or heading if there is one, then read the first one or two sentences carefully to identify the topic and main idea."
+  },
+  {
+    "id": 101,
+    "domain": "information_paragraph_reading",
+    "front": "What is step two of the strategic approach to reading an information paragraph?",
+    "back": "Notice structure signal words as you read, such as first, next, because, as a result, similarly, and unlike, since these words show what kind of information is coming."
+  },
+  {
+    "id": 102,
+    "domain": "information_paragraph_reading",
+    "front": "What is step three of the strategic approach to reading an information paragraph?",
+    "back": "Separate facts from examples: a fact is a general statement, while an example is a specific instance used to support that fact."
+  },
+  {
+    "id": 103,
+    "domain": "information_paragraph_reading",
+    "front": "What is step four of the strategic approach to reading an information paragraph?",
+    "back": "After each paragraph, ask yourself 'what is the one main thing I just learned?' If your answer is a small detail rather than a broad statement, look again for the topic sentence."
+  },
+  {
+    "id": 104,
+    "domain": "information_paragraph_reading",
+    "front": "What is step five of the strategic approach to reading an information paragraph?",
+    "back": "Always go back to the passage to check your answer rather than relying only on memory, since the correct answer will be directly supported by the text."
+  },
+  {
+    "id": 105,
+    "domain": "information_paragraph_reading",
+    "front": "What is the difference between a fact and an example in an information paragraph?",
+    "back": "A fact is a general statement of information, while an example is a specific instance used to illustrate that general fact."
+  },
+  {
+    "id": 106,
+    "domain": "information_paragraph_reading",
+    "front": "Why is confusing a fact with an example a common trap on main idea questions?",
+    "back": "A question may offer an example from inside the paragraph as an answer choice, and while it might be true, it is too narrow to be the main idea, which must cover the whole paragraph."
+  },
+  {
+    "id": 107,
+    "domain": "information_paragraph_reading",
+    "front": "How can you test whether an answer choice is really the main idea or just a supporting detail?",
+    "back": "Ask whether the answer choice explains everything in the paragraph or only part of it. An answer that only accounts for one sentence is likely a disguised supporting detail."
+  },
+  {
+    "id": 108,
+    "domain": "information_paragraph_reading",
+    "front": "In the insulated water bottle passage, what design feature keeps drinks cold?",
+    "back": "A vacuum-sealed double wall, where almost all the air is removed from the gap between two layers of metal, creating a near vacuum that heat struggles to cross."
+  },
+  {
+    "id": 109,
+    "domain": "information_paragraph_reading",
+    "front": "What organizational pattern explains how the vacuum layer in the water bottle passage blocks heat?",
+    "back": "Cause and effect, since removing air is the cause and blocking heat transfer is the effect that follows from it."
+  },
+  {
+    "id": 110,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, what are the three ways heat can move?",
+    "back": "Conduction, convection, and radiation."
+  },
+  {
+    "id": 111,
+    "domain": "information_paragraph_reading",
+    "front": "What is conduction, according to the water bottle passage?",
+    "back": "Conduction happens when heat passes directly through a solid material, like a spoon left in hot soup."
+  },
+  {
+    "id": 112,
+    "domain": "information_paragraph_reading",
+    "front": "What is convection, according to the water bottle passage?",
+    "back": "Convection happens when heat moves through a moving liquid or gas, such as warm air rising in a room."
+  },
+  {
+    "id": 113,
+    "domain": "information_paragraph_reading",
+    "front": "What is radiation, according to the water bottle passage?",
+    "back": "Radiation happens when heat travels as invisible waves, similar to how the sun warms your skin from a distance."
+  },
+  {
+    "id": 114,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, what would happen if the weld at the top of the bottle cracked?",
+    "back": "Outside air could leak into the vacuum gap, and the passage states this would cause the insulation to stop working properly."
+  },
+  {
+    "id": 115,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, how does mentioning single-wall bottles connect to the main idea?",
+    "back": "It provides a comparison that helps show why the vacuum design is effective, since single-wall bottles warm up or cool down within just an hour or two."
+  },
+  {
+    "id": 116,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, how long can a well-made insulated bottle keep hot tea warm?",
+    "back": "12 hours or longer, according to the passage."
+  },
+  {
+    "id": 117,
+    "domain": "information_paragraph_reading",
+    "front": "What is the biggest trap in information paragraph questions asking for a summary or main purpose?",
+    "back": "Mistaking a supporting example for the main idea. The correct answer must be broad enough to cover the whole paragraph, not just one detail."
+  },
+  {
+    "id": 118,
+    "domain": "information_paragraph_reading",
+    "front": "What trap involves a detail that is technically true but does not answer the question being asked?",
+    "back": "A passage may include several true facts, but if the question asks specifically about cause and effect or a specific number, your answer must match exactly what is being asked, not any true statement you remember."
+  },
+  {
+    "id": 119,
+    "domain": "information_paragraph_reading",
+    "front": "What trap involves mixing up two similar numbers that appear close together in a passage?",
+    "back": "Test writers sometimes attach a correct number from the passage to the wrong detail, so you must match each number to its correct detail by rereading the exact sentence."
+  },
+  {
+    "id": 120,
+    "domain": "information_paragraph_reading",
+    "front": "Why might a passage that compares benefits still count as an information paragraph rather than a persuasive one?",
+    "back": "Comparing benefits neutrally, presenting facts about both sides without telling the reader what to believe or do, keeps a passage in the information paragraph category."
+  },
+  {
+    "id": 121,
+    "domain": "information_paragraph_reading",
+    "front": "Do information paragraph questions usually require outside knowledge?",
+    "back": "No. Information paragraph questions are almost always answerable directly from the text, so relying on prior knowledge instead of the passage is a sign you should reread."
+  },
+  {
+    "id": 122,
+    "domain": "information_paragraph_reading",
+    "front": "What signal words point to a sequence structure passage?",
+    "back": "Words like first, next, then, after that, and finally, which show steps happening in order."
+  },
+  {
+    "id": 123,
+    "domain": "information_paragraph_reading",
+    "front": "What signal words point to a cause and effect structure passage?",
+    "back": "Words like because, as a result, therefore, due to, and this leads to."
+  },
+  {
+    "id": 124,
+    "domain": "information_paragraph_reading",
+    "front": "What signal words point to a compare and contrast structure passage?",
+    "back": "Words like similarly, in contrast, however, both, and unlike."
+  },
+  {
+    "id": 125,
+    "domain": "information_paragraph_reading",
+    "front": "Why does an information paragraph avoid emotional language?",
+    "back": "Its only job is to inform calmly and clearly, so the writer avoids language designed to make the reader feel excited, worried, or angry."
+  },
+  {
+    "id": 126,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of question asks you to identify whether a passage uses sequence, cause and effect, compare and contrast, or description?",
+    "back": "A text structure question, which tests whether you can recognize the organizational pattern a passage or section of a passage is using."
+  },
+  {
+    "id": 127,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, what happens to the air in the gap before the bottle is sealed?",
+    "back": "Almost all of the air is removed, creating a near vacuum, an explicit detail stated directly in the passage."
+  },
+  {
+    "id": 128,
+    "domain": "information_paragraph_reading",
+    "front": "What is the purpose of a reflective coating that some insulated bottles add inside the vacuum layer?",
+    "back": "It bounces radiant heat back toward its source, further slowing the transfer of heat in addition to the vacuum gap itself."
+  },
+  {
+    "id": 129,
+    "domain": "information_paragraph_reading",
+    "front": "Why is it important to reread the exact sentence in the passage before answering an information paragraph question?",
+    "back": "Wrong answer choices are often built from real details with one small change, so comparing the choice word for word against the passage avoids being misled by a close but incorrect number or detail."
+  },
+  {
+    "id": 130,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of paragraph structure would most likely explain how a volcano forms?",
+    "back": "A blend of sequence, to explain the stages of formation, and cause and effect, to explain why pressure builds up underground."
+  },
+  {
+    "id": 131,
+    "domain": "information_paragraph_reading",
+    "front": "Why should you not assign a single perfect structure label to every information paragraph?",
+    "back": "Many real passages blend more than one organizational pattern, so noticing the signal words is more useful than forcing one exact label onto the whole passage."
+  },
+  {
+    "id": 132,
+    "domain": "information_paragraph_reading",
+    "front": "What does it mean to separate a 'fact' from an 'example' while reading an information paragraph?",
+    "back": "A fact is the general statement being taught, while an example is a specific case used to illustrate it, and OSSLT questions often test the difference between the two."
+  },
+  {
+    "id": 133,
+    "domain": "information_paragraph_reading",
+    "front": "How should you check your answer after reading an information paragraph and its questions?",
+    "back": "Go back to the exact part of the text that supports your answer choice rather than trusting your memory of the passage."
+  },
+  {
+    "id": 134,
+    "domain": "information_paragraph_reading",
+    "front": "What is a 'hook' at the start of an information paragraph?",
+    "back": "An interesting fact or short question used to open the paragraph before the main idea is stated in a later sentence, rather than the very first line."
+  },
+  {
+    "id": 135,
+    "domain": "information_paragraph_reading",
+    "front": "Why is the phrase 'this is the best way' a clue that a passage might not be a neutral information paragraph?",
+    "back": "It expresses a judgment or recommendation rather than a neutral fact, which is a signal of persuasive writing rather than an information paragraph's steady, even voice."
+  },
+  {
+    "id": 136,
+    "domain": "information_paragraph_reading",
+    "front": "What should you ask yourself after reading each paragraph of an information passage to find the main idea?",
+    "back": "Ask 'what is the one main thing I just learned?' If your answer is broad, you likely found the main idea; if it is a small detail, look again for the topic sentence."
+  },
+  {
+    "id": 137,
+    "domain": "information_paragraph_reading",
+    "front": "In the water bottle passage, why is it wrong to describe the passage as using a narrative structure?",
+    "back": "There is no story about a specific student and no personal narrative anywhere in the passage. It stays factual and explanatory throughout."
+  },
+  {
+    "id": 138,
+    "domain": "information_paragraph_reading",
+    "front": "What is the danger of choosing an answer that is 'true' but does not match the specific type of question being asked?",
+    "back": "A true statement that does not address the specific focus of the question, such as cause and effect or a sequence, is still an incorrect answer even though it is factually accurate."
+  },
+  {
+    "id": 139,
+    "domain": "information_paragraph_reading",
+    "front": "How many main ways can heat move, according to the water bottle passage, and what blocks all of them at once?",
+    "back": "Heat can move through conduction, convection, and radiation, and the vacuum layer in an insulated bottle is designed to block all three at once."
+  },
+  {
+    "id": 140,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of detail usually appears at the very end of an information paragraph that follows an inverted structure of general-to-specific?",
+    "back": "The most specific supporting details or a closing statement connecting the facts back to a bigger everyday idea, such as remembering the science behind a cold drink at lunch."
+  },
+  {
+    "id": 141,
+    "domain": "information_paragraph_reading",
+    "front": "Why is neutrality one of the clearest signals of an information paragraph?",
+    "back": "Because the writer is not giving a personal opinion or trying to persuade, but simply reporting accurate facts in a steady, even voice like a reference book."
+  },
+  {
+    "id": 142,
+    "domain": "information_paragraph_reading",
+    "front": "What should you do if you find yourself relying on something you already knew before reading an information paragraph rather than something stated in the text?",
+    "back": "Stop and reread the relevant section, since the correct answer should come from the passage itself, not from outside knowledge you already had."
+  },
+  {
+    "id": 143,
+    "domain": "information_paragraph_reading",
+    "front": "What is the correct answer type for a question that asks 'according to the passage, how much did X cost' or 'how many Y took part'?",
+    "back": "An explicit detail question, since the exact number or amount is stated directly somewhere in the passage."
+  },
+  {
+    "id": 144,
+    "domain": "information_paragraph_reading",
+    "front": "Why do OSSLT information paragraph passages often include multiple similar numbers or dates?",
+    "back": "To test whether you can carefully match the exact number to its correct detail, rather than confusing two similar figures that appear close together in the text."
+  },
+  {
+    "id": 145,
+    "domain": "information_paragraph_reading",
+    "front": "What is the relationship between a topic sentence and the supporting details that follow it?",
+    "back": "The supporting details each provide evidence, examples, or explanation that backs up and expands upon the claim made in the topic sentence."
+  },
+  {
+    "id": 146,
+    "domain": "information_paragraph_reading",
+    "front": "Why might an information paragraph on the OSSLT include several distinct organizational signal words in one passage?",
+    "back": "Because real passages often blend patterns such as sequence and cause and effect, and each signal word tells you what kind of information or relationship is coming next."
+  },
+  {
+    "id": 147,
+    "domain": "information_paragraph_reading",
+    "front": "How does an information paragraph typically end?",
+    "back": "It often closes with a statement that ties the facts together or connects them back to something relatable, without offering a personal opinion or persuasive call to action."
+  },
+  {
+    "id": 148,
+    "domain": "information_paragraph_reading",
+    "front": "What makes description structure different from sequence structure?",
+    "back": "Description structure lays out facts about a single topic without a strong step-by-step order, while sequence structure explicitly follows a process through ordered steps."
+  },
+  {
+    "id": 149,
+    "domain": "information_paragraph_reading",
+    "front": "Why would a passage explaining 'how bread rises' most likely use a sequence structure?",
+    "back": "Because it explains a process that unfolds through ordered steps over time, which matches the definition of sequence structure using words like first, next, and finally."
+  },
+  {
+    "id": 150,
+    "domain": "information_paragraph_reading",
+    "front": "Why would a passage explaining 'why ice floats on water' most likely use a cause and effect structure?",
+    "back": "Because it explains the reason something happens, matching the definition of cause and effect structure using words like because and as a result."
+  },
+  {
+    "id": 151,
+    "domain": "information_paragraph_reading",
+    "front": "Why would a passage comparing two energy sources most likely use a compare and contrast structure?",
+    "back": "Because it examines two things and shows their similarities or differences, matching the definition of compare and contrast structure using words like similarly and in contrast."
+  },
+  {
+    "id": 152,
+    "domain": "information_paragraph_reading",
+    "front": "What is one clear sign that a paragraph is persuasive rather than a neutral information paragraph?",
+    "back": "The writer tells the reader what to believe or do, using language like 'you should' or 'everyone must,' rather than presenting facts in a steady, neutral voice."
+  },
+  {
+    "id": 153,
+    "domain": "information_paragraph_reading",
+    "front": "According to the water bottle passage, what happens to drinks in a cheap single-wall bottle?",
+    "back": "They warm up or cool down to match the surrounding temperature much faster, often within just an hour or two, since there is no vacuum gap."
+  },
+  {
+    "id": 154,
+    "domain": "information_paragraph_reading",
+    "front": "What is the purpose of the outer and inner walls being welded together near the opening of an insulated bottle?",
+    "back": "The weld forms a single sealed unit, and this seal is important because if outside air leaks into the vacuum gap, the insulation stops working properly."
+  },
+  {
+    "id": 155,
+    "domain": "information_paragraph_reading",
+    "front": "Why is 'B' the correct answer when a passage states a fact using the exact wording of an answer choice?",
+    "back": "Because explicit detail questions are answered by matching the passage's own words directly, so an answer choice using the same wording as the text is very likely correct."
+  },
+  {
+    "id": 156,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of reading question checks whether you understand HOW a paragraph is organized, rather than WHAT it says?",
+    "back": "A text structure question, which asks you to identify a pattern such as sequence, cause and effect, compare and contrast, or description."
+  },
+  {
+    "id": 157,
+    "domain": "information_paragraph_reading",
+    "front": "Why is 'the writer's tone stays even throughout' a useful clue when identifying an information paragraph?",
+    "back": "A steady, even tone without emotional language throughout the passage supports the conclusion that it is a neutral information paragraph rather than a persuasive piece."
+  },
+  {
+    "id": 158,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of paragraph would explain 'the parts of a place or object' without a strong step-by-step order?",
+    "back": "A description-structure paragraph, which lays out facts and details about a single topic, often moving from general to specific information."
+  },
+  {
+    "id": 159,
+    "domain": "information_paragraph_reading",
+    "front": "Why should you avoid choosing an answer for a summary question if it only restates one sentence from the middle of the passage?",
+    "back": "A true summary or main idea answer needs to represent the whole paragraph, while an answer built from only one sentence is too narrow and is likely a supporting detail in disguise."
+  },
+  {
+    "id": 160,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of evidence supports an explicit detail answer versus an inference answer in an information paragraph?",
+    "back": "An explicit detail answer is supported by a sentence stated directly in the text, while an inference answer is supported by evidence that must be reasoned through, even though it still must come from the passage."
+  },
+  {
+    "id": 161,
+    "domain": "information_paragraph_reading",
+    "front": "Why does EQAO test the ability to distinguish a general fact from a specific example?",
+    "back": "Because confusing an example for the main idea is one of the most common ways students choose an incorrect answer on main idea and summary questions."
+  },
+  {
+    "id": 162,
+    "domain": "information_paragraph_reading",
+    "front": "What should you notice about a passage's opening two or three sentences before deciding you have found the topic sentence?",
+    "back": "Read the whole opening carefully, since a writer sometimes opens with an interesting hook before stating the actual main idea a sentence or two later."
+  },
+  {
+    "id": 163,
+    "domain": "information_paragraph_reading",
+    "front": "How does an information paragraph typically avoid sounding one-sided even when discussing advantages of something?",
+    "back": "It presents facts about both sides in a neutral way without instructing the reader on what to believe or do, keeping the passage informative rather than persuasive."
+  },
+  {
+    "id": 164,
+    "domain": "information_paragraph_reading",
+    "front": "What is the safest strategy when two answer choices to an information paragraph question both contain true information from the passage?",
+    "back": "Check which choice actually matches what the specific question is asking, since a true but off-target detail is still an incorrect answer."
+  },
+  {
+    "id": 165,
+    "domain": "information_paragraph_reading",
+    "front": "Why is 'the vacuum gap blocks conduction, convection, and radiation' a strong summary sentence for part of the water bottle passage?",
+    "back": "It captures the broad main point of that section rather than describing just one of the three heat-transfer methods individually."
+  },
+  {
+    "id": 166,
+    "domain": "information_paragraph_reading",
+    "front": "What should you do before answering an information paragraph question if you are unsure whether an answer choice is a fact or a persuasive opinion?",
+    "back": "Check whether the language expresses a personal judgment or recommendation versus a neutral, checkable statement, since only the neutral statement fits an information paragraph's tone."
+  },
+  {
+    "id": 167,
+    "domain": "information_paragraph_reading",
+    "front": "What is the risk of assuming the very first sentence of a paragraph is always the topic sentence?",
+    "back": "Occasionally a writer opens with a hook before stating the main idea, so reading the whole opening carefully avoids missing the real topic sentence."
+  },
+  {
+    "id": 168,
+    "domain": "information_paragraph_reading",
+    "front": "Why is 'the writer sounds like a teacher or reference book' a helpful way to remember an information paragraph's tone?",
+    "back": "It captures the calm, neutral, fact-focused voice that separates an information paragraph from a persuasive or narrative passage."
+  },
+  {
+    "id": 169,
+    "domain": "information_paragraph_reading",
+    "front": "What kind of passage would explain the features of a hobby or an animal without describing a specific event?",
+    "back": "An information paragraph, since its goal is to teach general facts about a topic rather than report on something that happened on a specific day."
+  },
+  {
+    "id": 170,
+    "domain": "information_paragraph_reading",
+    "front": "Why is checking the exact sentence in the passage more reliable than trusting memory for a numbers-based question?",
+    "back": "Because information paragraphs often place similar numbers close together on purpose, and only the exact sentence confirms which number matches which detail."
+  },
+  {
+    "id": 171,
+    "domain": "news_report_reading",
+    "front": "What is a news report on the OSSLT?",
+    "back": "A news report is a piece of writing that tells about something that happened, almost always something recent, written the way a newspaper or news website would write it."
+  },
+  {
+    "id": 172,
+    "domain": "news_report_reading",
+    "front": "Why does the news report passage matter so much on the OSSLT?",
+    "back": "One of the five reading passages on every OSSLT sitting is always a news report, and it always comes with a short written open-response question, not just multiple choice."
+  },
+  {
+    "id": 173,
+    "domain": "news_report_reading",
+    "front": "What is the headline of a news report?",
+    "back": "The headline is the short title at the top of the passage meant to grab attention and give a quick idea of what the whole passage is about."
+  },
+  {
+    "id": 174,
+    "domain": "news_report_reading",
+    "front": "What are the byline and dateline of a news report?",
+    "back": "The byline tells you who wrote the article, and the dateline tells you where and when the story is happening, usually appearing near the headline or start of the article."
+  },
+  {
+    "id": 175,
+    "domain": "news_report_reading",
+    "front": "What is the lead paragraph of a news report?",
+    "back": "The lead is the first paragraph of a news report, and it is the most important paragraph because it tries to answer the main questions a reader would have about the story."
+  },
+  {
+    "id": 176,
+    "domain": "news_report_reading",
+    "front": "What are the Five W's plus How?",
+    "back": "Who, what, when, where, why, and how, the six basic questions a well-written news report tries to answer as early as possible, usually in the lead paragraph."
+  },
+  {
+    "id": 177,
+    "domain": "news_report_reading",
+    "front": "Why is the lead paragraph especially useful for answering OSSLT explicit detail questions?",
+    "back": "A well-written news report answers as many of the Five W's plus How as possible in the very first paragraph, so basic facts are very often found there."
+  },
+  {
+    "id": 178,
+    "domain": "news_report_reading",
+    "front": "What is the inverted pyramid structure?",
+    "back": "A news writing structure where the most important information comes first, in the headline and lead, with supporting details in the middle and the smallest, least essential details near the end."
+  },
+  {
+    "id": 179,
+    "domain": "news_report_reading",
+    "front": "How is the inverted pyramid structure different from how a short story is usually built?",
+    "back": "A short story often saves the most important information for the end, while a news report puts the most important facts first and the least essential details last."
+  },
+  {
+    "id": 180,
+    "domain": "news_report_reading",
+    "front": "Why does the inverted pyramid help you read a news report strategically?",
+    "back": "The biggest, most test-worthy facts are almost always near the top of the passage, so you can predict where key information is likely to be located."
+  },
+  {
+    "id": 181,
+    "domain": "news_report_reading",
+    "front": "What tone does a news report use?",
+    "back": "An objective, third-person tone meant to sound fair and neutral, since the writer is not supposed to insert their own opinion directly into the reporting."
+  },
+  {
+    "id": 182,
+    "domain": "news_report_reading",
+    "front": "How does a news report show opinions or feelings without the writer stating them as fact?",
+    "back": "Through direct quotes from named sources, letting the story include personal opinions and reactions without the reporter stating those opinions as objective fact."
+  },
+  {
+    "id": 183,
+    "domain": "news_report_reading",
+    "front": "What is a 'source' in a news report?",
+    "back": "A source is a person quoted in the story, such as an organizer, someone affected by the event, an expert, or an official like a city councillor or principal."
+  },
+  {
+    "id": 184,
+    "domain": "news_report_reading",
+    "front": "What is Step 1 of reading a news report strategically?",
+    "back": "Read the headline and predict what topic, kind of event, and possibly who is involved before reading the body of the passage."
+  },
+  {
+    "id": 185,
+    "domain": "news_report_reading",
+    "front": "What is Step 2 of reading a news report strategically?",
+    "back": "Find the Five W's plus How in the lead paragraph, since many explicit detail questions are answered directly in this first paragraph."
+  },
+  {
+    "id": 186,
+    "domain": "news_report_reading",
+    "front": "What is Step 3 of reading a news report strategically?",
+    "back": "Track who is speaking in each quote and notice what role that person plays in the story, since quotes are a favourite place for OSSLT questions."
+  },
+  {
+    "id": 187,
+    "domain": "news_report_reading",
+    "front": "What is Step 4 of reading a news report strategically?",
+    "back": "Separate reported fact from quoted opinion, checking whether a statement is something the writer states directly or something a person says using personal or emotional language."
+  },
+  {
+    "id": 188,
+    "domain": "news_report_reading",
+    "front": "What is Step 5 of reading a news report strategically?",
+    "back": "Notice how quotes support the main idea by asking what a particular quote adds that a plain fact could not."
+  },
+  {
+    "id": 189,
+    "domain": "news_report_reading",
+    "front": "What is a reported fact in a news report?",
+    "back": "Something the writer states directly, such as a date, number, location, or action that took place, that can be checked or confirmed."
+  },
+  {
+    "id": 190,
+    "domain": "news_report_reading",
+    "front": "What is a quoted opinion in a news report?",
+    "back": "Something a person says using words like 'I think,' 'I feel,' or emotional language such as 'amazing' or 'disappointing,' shown inside quotation marks and attributed to a specific person."
+  },
+  {
+    "id": 191,
+    "domain": "news_report_reading",
+    "front": "In the community garden passage, how many students took part in the project?",
+    "back": "Twenty-two students took part in the project as part of their environmental science credit."
+  },
+  {
+    "id": 192,
+    "domain": "news_report_reading",
+    "front": "In the community garden passage, why did the writer likely include Terrence Wall's quote?",
+    "back": "To show that even a skeptical neighbour changed his mind after seeing the results, since he starts doubtful and ends impressed."
+  },
+  {
+    "id": 193,
+    "domain": "news_report_reading",
+    "front": "In the community garden passage, which statement is a quoted opinion rather than a stated fact?",
+    "back": "Councillor Nath's statement that 'these students saw a problem and solved it themselves' is a quoted opinion, since it reflects her personal judgment about the students."
+  },
+  {
+    "id": 194,
+    "domain": "news_report_reading",
+    "front": "What is the difference between the fact 'the garden opened to the public on Saturday' and the quote 'these students saw a problem and solved it themselves'?",
+    "back": "The first is a stated fact describing an event, while the second is a quoted personal opinion expressing a judgment about the students."
+  },
+  {
+    "id": 195,
+    "domain": "news_report_reading",
+    "front": "What does the OSSLT open-response reading rubric reward, according to the strong sample response for the community garden passage?",
+    "back": "Accurate, specific, and relevant ideas taken directly from the passage, such as named details, numbers, or quotes, rather than vague general statements."
+  },
+  {
+    "id": 196,
+    "domain": "news_report_reading",
+    "front": "Why did the weak sample open response about the community garden score poorly?",
+    "back": "It offered only vague, general statements like 'worked really hard' and 'everyone was happy,' with no specific evidence pulled from the text."
+  },
+  {
+    "id": 197,
+    "domain": "news_report_reading",
+    "front": "What is Trap 1 in news report questions?",
+    "back": "Mixing up the reporter's words with a source's words, choosing an answer that sounds like a fact but is actually only someone's personal opinion inside quotation marks."
+  },
+  {
+    "id": 198,
+    "domain": "news_report_reading",
+    "front": "What is Trap 2 in news report questions?",
+    "back": "Assuming the headline tells the whole story, when the headline is only a summary and some questions test details that go beyond what it suggests."
+  },
+  {
+    "id": 199,
+    "domain": "news_report_reading",
+    "front": "What is Trap 3 in news report questions?",
+    "back": "Picking the most dramatic-sounding quote instead of the most relevant one when answering an inference question about why a quote was included."
+  },
+  {
+    "id": 200,
+    "domain": "news_report_reading",
+    "front": "What is Trap 4 in news report questions?",
+    "back": "Forgetting that later paragraphs hold smaller details, since the inverted pyramid structure means specific facts like exact dates can appear near the end."
+  },
+  {
+    "id": 201,
+    "domain": "news_report_reading",
+    "front": "What is Trap 5 in news report questions?",
+    "back": "Writing a vague open response with no evidence, instead of naming a detail, number, person, or quote to support the answer."
+  },
+  {
+    "id": 202,
+    "domain": "news_report_reading",
+    "front": "What is Trap 6 in news report questions?",
+    "back": "Confusing who said a quote with who the quote is about, especially when two different people express slightly different opinions about the same event."
+  },
+  {
+    "id": 203,
+    "domain": "news_report_reading",
+    "front": "Why is a news report written in third person rather than first person?",
+    "back": "Because the writer is reporting on events and people from an outside, objective point of view rather than sharing their own personal experience."
+  },
+  {
+    "id": 204,
+    "domain": "news_report_reading",
+    "front": "How would a news report rewrite the opinion 'the new playground is wonderful and everyone loves it' to stay objective?",
+    "back": "It would attribute the opinion to a source, such as 'several parents said they were pleased with the new playground,' rather than stating it as the writer's own fact."
+  },
+  {
+    "id": 205,
+    "domain": "news_report_reading",
+    "front": "Why do news reports rely heavily on direct quotations?",
+    "back": "Quotes let the story include personal opinions, feelings, and reactions from real people without the reporter stating those opinions as objective fact."
+  },
+  {
+    "id": 206,
+    "domain": "news_report_reading",
+    "front": "What should you check before selecting an answer that identifies a statement as a 'fact' in a news report question?",
+    "back": "Check whether the sentence is something the writer states directly, or something a named person says inside quotation marks, since the two are treated very differently."
+  },
+  {
+    "id": 207,
+    "domain": "news_report_reading",
+    "front": "Why does the lead paragraph of a news report usually answer the most questions a reader would have?",
+    "back": "Because news writing is built so that even a reader who only reads the first few lines still understands the basic story, thanks to the Five W's plus How being addressed early."
+  },
+  {
+    "id": 208,
+    "domain": "news_report_reading",
+    "front": "What kind of detail is more likely to appear near the end of a news report rather than near the top?",
+    "back": "The smallest, most specific details, extra background information, or less important quotes, due to the inverted pyramid structure."
+  },
+  {
+    "id": 209,
+    "domain": "news_report_reading",
+    "front": "How can you identify who is being quoted and their role in a news report?",
+    "back": "Notice the name attached to the quotation marks and consider what role that person plays in the story, such as organizer, witness, official, or someone affected."
+  },
+  {
+    "id": 210,
+    "domain": "news_report_reading",
+    "front": "Why is Terrence Wall's quote in the community garden passage evidence of a changed opinion rather than ongoing skepticism?",
+    "back": "His quote moves from doubt at the start ('I thought the weeds would take over again by June') to being impressed by the end ('I have to say, I'm impressed with what they built')."
+  },
+  {
+    "id": 211,
+    "domain": "news_report_reading",
+    "front": "What kind of language signals a quoted opinion rather than a reported fact?",
+    "back": "Personal judgment language or emotional words such as 'I think,' 'I feel,' 'amazing,' or 'disappointing,' especially when shown inside quotation marks and attributed to a person."
+  },
+  {
+    "id": 212,
+    "domain": "news_report_reading",
+    "front": "What should an open-response answer about a news report always include to score well?",
+    "back": "Specific evidence from the passage, such as a name, number, date, or direct quote, rather than a general impression with no supporting detail."
+  },
+  {
+    "id": 213,
+    "domain": "news_report_reading",
+    "front": "Why might a question about a news report ask you to distinguish 'who said it' from 'who it is about'?",
+    "back": "Because a report can quote several different people, and some questions test whether you can correctly match a quote to the right speaker rather than confusing two speakers."
+  },
+  {
+    "id": 214,
+    "domain": "news_report_reading",
+    "front": "What is the purpose of a dateline in a news report?",
+    "back": "It tells the reader where and when the story is happening, helping establish the setting of the report right away."
+  },
+  {
+    "id": 215,
+    "domain": "news_report_reading",
+    "front": "Why is 'objective' the correct word to describe a news report's intended tone?",
+    "back": "Objective means fair and neutral, showing that the writer is not supposed to insert personal opinion directly into the reporting of events."
+  },
+  {
+    "id": 216,
+    "domain": "news_report_reading",
+    "front": "What common feature of a headline should you notice before reading the body of a news report?",
+    "back": "A good headline often hints at the who and the what of the story, giving you a frame to predict the content before you start reading."
+  },
+  {
+    "id": 217,
+    "domain": "news_report_reading",
+    "front": "Why does the inverted pyramid structure make a news report easier to skim quickly?",
+    "back": "Because the most important, test-worthy information is placed near the top, so a quick read of the headline and lead paragraph often reveals the core facts."
+  },
+  {
+    "id": 218,
+    "domain": "news_report_reading",
+    "front": "In the science fair or community garden style of passage, why would councillor Nath's quote be chosen by the writer?",
+    "back": "It supports the main idea of the story by adding a public official's endorsement of the students' initiative, strengthening the sense that the project was a success."
+  },
+  {
+    "id": 219,
+    "domain": "news_report_reading",
+    "front": "How should you handle a question asking why a specific quote was included in a news report?",
+    "back": "Ask what that quote adds to the story's main idea rather than picking the answer that simply sounds the most emotional or dramatic."
+  },
+  {
+    "id": 220,
+    "domain": "news_report_reading",
+    "front": "What is the danger of assuming a fact stated in the middle of a news report must be less important than one in the lead?",
+    "back": "Middle paragraphs still contain supporting details and explanation directly connected to the main idea, even though the most essential facts usually appear first."
+  },
+  {
+    "id": 221,
+    "domain": "news_report_reading",
+    "front": "Why is Mr. Devries's quote about the garden's goal important to the passage's main idea?",
+    "back": "He states that 'the goal was never just to grow vegetables for one season' but to show students they can make a real difference, tying the specific event to a broader lesson."
+  },
+  {
+    "id": 222,
+    "domain": "news_report_reading",
+    "front": "What should you do if two named sources in a news report express similar but not identical opinions?",
+    "back": "Carefully match each specific detail of the opinion to the correct name, since questions may test whether you can tell the two viewpoints apart accurately."
+  },
+  {
+    "id": 223,
+    "domain": "news_report_reading",
+    "front": "How is a fact like 'the food bank is expected to receive vegetables next week' different from a quoted line like 'these students saw a problem and solved it themselves'?",
+    "back": "The first is a reported fact stating an expected event, while the second is a quoted opinion expressing a personal judgment about the students."
+  },
+  {
+    "id": 224,
+    "domain": "news_report_reading",
+    "front": "What makes a news report passage realistic rather than fictional in style?",
+    "back": "Its topics are ordinary and grounded in real community life, such as a bake sale, road closure, new bike lane, or science fair, rather than fantastical events."
+  },
+  {
+    "id": 225,
+    "domain": "news_report_reading",
+    "front": "Why should you never assume a headline alone is enough to answer a detail question?",
+    "back": "The headline only summarizes the story, so specific facts about challenges, skepticism, or minor details may only appear later in the body of the report."
+  },
+  {
+    "id": 226,
+    "domain": "news_report_reading",
+    "front": "What does it mean for a news report to be 'not one-sided'?",
+    "back": "The writer avoids inserting personal judgment and instead lets sources express opinions through quotes, keeping the overall reporting fair and neutral."
+  },
+  {
+    "id": 227,
+    "domain": "news_report_reading",
+    "front": "What kind of evidence in a strong open response shows a marker that a student truly read and understood a news report passage?",
+    "back": "Specific, named details such as a number, a quoted line, or a person's name that could only come from actually reading and understanding the passage."
+  },
+  {
+    "id": 228,
+    "domain": "news_report_reading",
+    "front": "Why is it a mistake to describe general statements like 'they worked really hard and everyone was happy' as strong evidence in an open response?",
+    "back": "These statements are vague enough to apply to almost any success story and do not demonstrate that the student engaged with the specific facts in the passage."
+  },
+  {
+    "id": 229,
+    "domain": "news_report_reading",
+    "front": "What kind of question asks you to identify the who, what, when, where, why, or how of a news report?",
+    "back": "An explicit detail question, since the Five W's plus How are typically stated directly, often in the lead paragraph."
+  },
+  {
+    "id": 230,
+    "domain": "news_report_reading",
+    "front": "Why might an OSSLT question about a news report ask which sentence is 'stated' versus which is 'implied by a source's tone'?",
+    "back": "Because separating reported fact from quoted opinion is one of the most heavily tested skills in news report passages."
+  },
+  {
+    "id": 231,
+    "domain": "news_report_reading",
+    "front": "What should you notice about the order of paragraphs when a news report explains challenges the project faced?",
+    "back": "Challenges or doubts, such as a skeptical neighbour's early opinion, may appear in a middle paragraph rather than the lead, since the inverted pyramid still allows supporting narrative details after the main facts."
+  },
+  {
+    "id": 232,
+    "domain": "news_report_reading",
+    "front": "Why is the phrase 'said Councillor Nath' important to notice when reading her quote?",
+    "back": "It attributes the opinion to a specific named person, confirming the statement is a quoted opinion rather than a neutral fact stated by the writer."
+  },
+  {
+    "id": 233,
+    "domain": "news_report_reading",
+    "front": "What is the safest way to answer a question asking 'according to the passage' about a news report?",
+    "back": "Locate the exact sentence stating the fact, since news reports are built to answer basic questions directly and explicitly, usually early in the passage."
+  },
+  {
+    "id": 234,
+    "domain": "news_report_reading",
+    "front": "Why does a well-organized news report answer as many of the Five W's plus How as early as possible?",
+    "back": "So that even a reader who only reads the first few lines understands the basic story, which is the defining purpose of the lead paragraph."
+  },
+  {
+    "id": 235,
+    "domain": "news_report_reading",
+    "front": "What role does a 'source' typically play when a news report includes a personal reaction to an event?",
+    "back": "The source provides the emotional or opinionated reaction through a direct quote, keeping the writer's own voice neutral and fact-based."
+  },
+  {
+    "id": 236,
+    "domain": "news_report_reading",
+    "front": "Why would an OSSLT question use two similar quotes from different speakers in the same news report?",
+    "back": "To test whether you can correctly match each opinion to the right speaker rather than confusing the two viewpoints."
+  },
+  {
+    "id": 237,
+    "domain": "news_report_reading",
+    "front": "What kind of information is least likely to appear in the very first paragraph of a news report?",
+    "back": "The smallest, most specific background details or less essential quotes, which the inverted pyramid structure usually places near the end instead."
+  },
+  {
+    "id": 238,
+    "domain": "news_report_reading",
+    "front": "According to the OSSLT open-response guidance, what should you do if you are unsure how to start your written response about a news report?",
+    "back": "Restate the key idea using your own words, then immediately support it with a specific detail, number, or quote directly from the passage."
+  },
+  {
+    "id": 239,
+    "domain": "news_report_reading",
+    "front": "Why is 'a group of Grade 9 students' more useful as an explicit-detail answer than 'some students' in the community garden passage?",
+    "back": "Because the passage explicitly identifies the students as Grade 9, and an explicit detail answer must match the exact information stated in the text."
+  },
+  {
+    "id": 240,
+    "domain": "news_report_reading",
+    "front": "What is the value of noticing whether a speaker's opinion changes between two quotes in the same news report?",
+    "back": "It can reveal a shift, such as skepticism turning into being impressed, which is often the exact point a question about why a quote was chosen is testing."
+  },
+  {
+    "id": 241,
+    "domain": "news_report_reading",
+    "front": "How should you treat an answer choice in a news report question that sounds true but is not stated or quoted anywhere in the passage?",
+    "back": "Reject it, since a news report question must be answered using only what is explicitly stated or quoted in that specific passage, not general assumptions."
+  },
+  {
+    "id": 242,
+    "domain": "news_report_reading",
+    "front": "What is the function of the final paragraph in many news reports, according to the inverted pyramid structure?",
+    "back": "It typically holds smaller, less essential details, such as ongoing plans or minor logistics, rather than the story's most important facts."
+  },
+  {
+    "id": 243,
+    "domain": "news_report_reading",
+    "front": "Why does a councillor's or official's quote often appear in a community-focused news report?",
+    "back": "To add a credible, public voice supporting or commenting on the event, which strengthens the sense of the story's significance to the wider community."
+  },
+  {
+    "id": 244,
+    "domain": "news_report_reading",
+    "front": "What is the key difference between 'the writer's opinion' and 'a source's opinion' in a properly written news report?",
+    "back": "A properly written news report should contain no direct opinion from the writer at all. Any opinion present comes from a quoted source, not from the reporter's own voice."
+  },
+  {
+    "id": 245,
+    "domain": "news_report_reading",
+    "front": "Why should you always check the exact wording of a quote before answering a fact-versus-opinion question?",
+    "back": "Because a quote's precise wording, such as personal judgment language, is what identifies it as an opinion rather than a neutral, checkable fact."
+  },
+  {
+    "id": 246,
+    "domain": "news_report_reading",
+    "front": "How does the sample community garden passage demonstrate a project overcoming doubt?",
+    "back": "It shows a skeptical neighbour who doubted the project at first but became impressed after watching it succeed over the summer, demonstrating a shift supporting the story's success."
+  },
+  {
+    "id": 247,
+    "domain": "news_report_reading",
+    "front": "Why is it useful to notice which paragraph a specific quote appears in when answering a news report question?",
+    "back": "The paragraph's position hints at the quote's importance under the inverted pyramid, and the surrounding sentences often provide context needed to interpret the quote correctly."
+  },
+  {
+    "id": 248,
+    "domain": "news_report_reading",
+    "front": "What is the danger of writing an open response about a news report using only your own opinion instead of the passage's content?",
+    "back": "The response would not demonstrate understanding of the specific passage, since the OSSLT rubric rewards accurate, specific, and relevant ideas drawn from the text itself."
+  },
+  {
+    "id": 249,
+    "domain": "news_report_reading",
+    "front": "Why does a news report almost always include a specific date, time, or number somewhere in the passage?",
+    "back": "Because reported facts, which include checkable details like dates and numbers, are a core feature of objective news writing distinguishing it from opinion or narrative."
+  },
+  {
+    "id": 250,
+    "domain": "news_report_reading",
+    "front": "Why is a headline like 'Local Teen Builds Wheelchair Ramp for Neighbour' considered a strong example headline?",
+    "back": "It hints at both the who (a local teen) and the what (building a wheelchair ramp) of the story, giving the reader a quick frame before reading further."
+  },
+  {
+    "id": 251,
+    "domain": "news_report_reading",
+    "front": "What is the risk of confusing a byline with a dateline?",
+    "back": "The byline tells you who wrote the report, while the dateline tells you where and when the story is set. Mixing the two up can lead to answering an explicit detail question incorrectly."
+  },
+  {
+    "id": 252,
+    "domain": "news_report_reading",
+    "front": "Why does a news report avoid words like 'wonderful' or 'terrible' in the writer's own voice?",
+    "back": "Such emotional words express judgment, which breaks the objective, neutral tone a news report is supposed to maintain outside of quoted material."
+  },
+  {
+    "id": 253,
+    "domain": "news_report_reading",
+    "front": "What is the benefit of predicting the topic of a news report from its headline before reading the lead paragraph?",
+    "back": "It gives your brain a frame to fit the incoming details into, making the Five W's plus How easier and faster to spot as you read."
+  },
+  {
+    "id": 254,
+    "domain": "news_report_reading",
+    "front": "Why might a question ask you to explain 'how' an event happened rather than just 'what' happened in a news report?",
+    "back": "Because the Five W's plus How include both what occurred and the process or method behind it, and a news report often explains both explicitly in the lead or nearby paragraphs."
+  },
+  {
+    "id": 255,
+    "domain": "news_report_reading",
+    "front": "What should you always double check when a news report question involves comparing two different sources' opinions on the same event?",
+    "back": "Confirm which name is attached to each specific quote before answering, since mixing up two sources' opinions is a common and costly mistake."
+  },
+  {
+    "id": 256,
+    "domain": "dialogue_reading",
+    "front": "What is a dialogue passage on the OSSLT?",
+    "back": "A dialogue passage is written mostly or entirely as a conversation between two or more people, often formatted with short lines and a name or label showing who is speaking."
+  },
+  {
+    "id": 257,
+    "domain": "dialogue_reading",
+    "front": "What is the most important idea to understand about how a dialogue passage is built?",
+    "back": "It is built on turn-taking: one person speaks, another responds, and meaning comes not just from what is said but from how each person reacts to what the other just said."
+  },
+  {
+    "id": 258,
+    "domain": "dialogue_reading",
+    "front": "Why might a character's true opinion not appear in their very first line of dialogue?",
+    "back": "It might only become clear two or three exchanges later, once you see how the character responds to pushback or new information."
+  },
+  {
+    "id": 259,
+    "domain": "dialogue_reading",
+    "front": "What kinds of topics do OSSLT dialogue passages usually cover?",
+    "back": "Realistic, everyday situations such as students disagreeing about a school project, a student talking with a coach or parent, or friends planning an event and hitting a disagreement."
+  },
+  {
+    "id": 260,
+    "domain": "dialogue_reading",
+    "front": "How does a dialogue passage reveal character differently from a real-life narrative?",
+    "back": "A dialogue passage reveals character through word choice and tone rather than a narrator directly stating a feeling, so the reader must infer emotion from how something is said."
+  },
+  {
+    "id": 261,
+    "domain": "dialogue_reading",
+    "front": "What are the two common ways a dialogue passage shows who is speaking?",
+    "back": "A name followed by a colon before each line, or traditional dialogue tags inside a narrative, such as 'Jordan said' or 'Priya replied.'"
+  },
+  {
+    "id": 262,
+    "domain": "dialogue_reading",
+    "front": "What is the most common mistake students make when reading a long back-and-forth dialogue passage?",
+    "back": "Mixing up who said what, especially under exam pressure, since it is easy to remember the general disagreement without remembering which speaker held which position."
+  },
+  {
+    "id": 263,
+    "domain": "dialogue_reading",
+    "front": "What is Strategy 1 for reading a dialogue passage strategically?",
+    "back": "Track who holds which position by asking what each speaker wants and whether they are on opposite sides or actually agree but argue about details."
+  },
+  {
+    "id": 264,
+    "domain": "dialogue_reading",
+    "front": "What is Strategy 2 for reading a dialogue passage strategically?",
+    "back": "Watch for shifts in tone, since a conversation rarely stays the same from beginning to end and may move from calm to tense or from tense to resolved."
+  },
+  {
+    "id": 265,
+    "domain": "dialogue_reading",
+    "front": "What is Strategy 3 for reading a dialogue passage strategically?",
+    "back": "Use context clues to infer feelings, paying attention to word choice and what a speaker does NOT say, since dialogue rarely states feelings directly."
+  },
+  {
+    "id": 266,
+    "domain": "dialogue_reading",
+    "front": "What is Strategy 4 for reading a dialogue passage strategically?",
+    "back": "Separate what is stated from what is inferred, since a stated detail is said outright while an inferred detail is a conclusion drawn from clues in tone or word choice."
+  },
+  {
+    "id": 267,
+    "domain": "dialogue_reading",
+    "front": "What is Strategy 5 for reading a dialogue passage strategically?",
+    "back": "Follow the conversation to its ending, since many dialogue passages end in an agreement, compromise, or decision that a question will often ask about."
+  },
+  {
+    "id": 268,
+    "domain": "dialogue_reading",
+    "front": "What are four clues that signal a shift in tone during a dialogue passage?",
+    "back": "Changes in sentence length, changes in punctuation such as a sudden exclamation mark, words showing agreement or backing down like 'Okay, fine,' and interruptions or unfinished sentences."
+  },
+  {
+    "id": 269,
+    "domain": "dialogue_reading",
+    "front": "Why do short, clipped sentences in dialogue often signal frustration?",
+    "back": "Short sentences often show impatience or frustration, while longer sentences often signal someone trying to persuade or reassure the other speaker."
+  },
+  {
+    "id": 270,
+    "domain": "dialogue_reading",
+    "front": "What does a sudden exclamation mark after several calm sentences usually signal in dialogue?",
+    "back": "It signals that emotion has increased at that point in the conversation."
+  },
+  {
+    "id": 271,
+    "domain": "dialogue_reading",
+    "front": "What do phrases like 'Okay, fine' or 'You have a point' usually mark in a dialogue passage?",
+    "back": "They often mark the turning point where a disagreement starts to resolve, showing one speaker beginning to agree or back down."
+  },
+  {
+    "id": 272,
+    "domain": "dialogue_reading",
+    "front": "What can an interruption or a trailing, unfinished sentence in dialogue suggest?",
+    "back": "It can show a speaker cutting someone off because they are upset, or eager to make a point, and is a deliberate signal the test wants you to notice."
+  },
+  {
+    "id": 273,
+    "domain": "dialogue_reading",
+    "front": "Why does a line like 'I suppose that could work' sound less enthusiastic than 'That's a great idea, let's do it,' even though both technically agree?",
+    "back": "Word choice reveals tone. The first uses hesitant, lukewarm phrasing while the second uses confident, positive phrasing, even though both express agreement."
+  },
+  {
+    "id": 274,
+    "domain": "dialogue_reading",
+    "front": "What can it mean when a speaker keeps changing the subject instead of answering a direct question?",
+    "back": "That avoidance itself is a clue, possibly suggesting embarrassment, uncertainty, or an unwillingness to admit something."
+  },
+  {
+    "id": 275,
+    "domain": "dialogue_reading",
+    "front": "What is the difference between a stated detail and an inferred detail in a dialogue passage?",
+    "back": "A stated detail is something a speaker says outright in the text, while an inferred detail is a conclusion drawn from clues even though no one says it directly."
+  },
+  {
+    "id": 276,
+    "domain": "dialogue_reading",
+    "front": "What words in a question usually point to a stated detail rather than an inference?",
+    "back": "Words like 'states,' 'says,' or 'explains' usually point to a stated detail you can find directly in the text."
+  },
+  {
+    "id": 277,
+    "domain": "dialogue_reading",
+    "front": "What words in a question usually point to an inference rather than a stated detail?",
+    "back": "Words like 'suggests,' 'implies,' 'we can infer,' or 'most likely feels' point to an inference question requiring you to interpret clues."
+  },
+  {
+    "id": 278,
+    "domain": "dialogue_reading",
+    "front": "Why should you always read a dialogue passage all the way to its final lines?",
+    "back": "A question will often ask what the speakers ultimately decide, and a speaker's opinion in the middle of the conversation might change by the end."
+  },
+  {
+    "id": 279,
+    "domain": "dialogue_reading",
+    "front": "In the science fair dialogue, what does Diego say he completed over the weekend?",
+    "back": "Diego states directly that he finished building the model volcano over the weekend."
+  },
+  {
+    "id": 280,
+    "domain": "dialogue_reading",
+    "front": "In the science fair dialogue, how does Amara most likely feel about the project at the start of the conversation?",
+    "back": "She is concerned it is too similar to other projects, shown through her question about whether a volcano model will be enough and her comment that many past projects were volcanoes."
+  },
+  {
+    "id": 281,
+    "domain": "dialogue_reading",
+    "front": "In the science fair dialogue, what do Diego and Amara ultimately decide to do?",
+    "back": "They decide to keep the volcano as it is and add a section testing how different liquids affect the size of the eruption."
+  },
+  {
+    "id": 282,
+    "domain": "dialogue_reading",
+    "front": "In the science fair dialogue, how does Diego's attitude change over the course of the conversation?",
+    "back": "He starts resistant to changing the project, but becomes open to Amara's idea once she explains her concern about a missing hypothesis."
+  },
+  {
+    "id": 283,
+    "domain": "dialogue_reading",
+    "front": "In the science fair dialogue, what specific concern does Amara raise about their current project?",
+    "back": "She is worried they do not have a real hypothesis or experiment, since the project so far is just a demonstration rather than a test."
+  },
+  {
+    "id": 284,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 1 in dialogue passage questions?",
+    "back": "Mixing up which speaker said what, especially in a conversation with several exchanges, which is the single most common mistake on dialogue questions."
+  },
+  {
+    "id": 285,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 2 in dialogue passage questions?",
+    "back": "Missing a shift in tone or opinion partway through the conversation, which can happen if you only read the first half carefully and skim the rest."
+  },
+  {
+    "id": 286,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 3 in dialogue passage questions?",
+    "back": "Confusing a strong statement made in the middle of a conversation with the final outcome, when the true ending may actually be a compromise."
+  },
+  {
+    "id": 287,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 4 in dialogue passage questions?",
+    "back": "Treating an inference question like a detail question, expecting an exact quote to state a feeling directly rather than interpreting clues from tone and word choice."
+  },
+  {
+    "id": 288,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 5 in dialogue passage questions?",
+    "back": "Picking an answer that sounds dramatic but is not supported, such as calling a character 'angry' when the text only shows mild disagreement."
+  },
+  {
+    "id": 289,
+    "domain": "dialogue_reading",
+    "front": "What is Trap 6 in dialogue passage questions?",
+    "back": "Ignoring formatting clues like interruptions, trailing sentences, or unusual punctuation, which are placed deliberately and often hold the key to a tone question."
+  },
+  {
+    "id": 290,
+    "domain": "dialogue_reading",
+    "front": "What five items belong on a quick review checklist before finishing a dialogue passage?",
+    "back": "Did you track who holds which position, notice any tone shift, read to the true ending, look beyond direct statements for feelings, and confirm details against the actual passage lines?"
+  },
+  {
+    "id": 291,
+    "domain": "dialogue_reading",
+    "front": "Why is it risky to answer an outcome question using a dramatic statement from the middle of a dialogue?",
+    "back": "Because the true resolution comes from the conversation's final lines, and a strong mid-conversation statement, like early resistance, is often reversed by the end."
+  },
+  {
+    "id": 292,
+    "domain": "dialogue_reading",
+    "front": "How should you match the intensity of an answer choice to a dialogue passage's actual tone?",
+    "back": "Match the emotional strength of the answer choice to what is actually shown in the text, avoiding options that exaggerate a character's feelings beyond what is supported."
+  },
+  {
+    "id": 293,
+    "domain": "dialogue_reading",
+    "front": "Why do dialogue passages test inference skills more directly than other passage types?",
+    "back": "Because characters' feelings and opinions are shown through word choice and tone rather than a narrator stating them outright, requiring the reader to infer meaning."
+  },
+  {
+    "id": 294,
+    "domain": "dialogue_reading",
+    "front": "What is one practical way to keep track of two speakers' opposing positions while reading a dialogue passage?",
+    "back": "Mentally sort each speaker's lines into a 'position' bucket as you read, or jot a quick one-word note if working on paper, to avoid attributing one speaker's opinion to the other."
+  },
+  {
+    "id": 295,
+    "domain": "dialogue_reading",
+    "front": "Why is it important to notice both what a speaker says and what they choose not to say?",
+    "back": "Avoidance, like changing the subject or refusing to answer directly, can itself be a meaningful clue about a speaker's feelings, such as discomfort or uncertainty."
+  },
+  {
+    "id": 296,
+    "domain": "dialogue_reading",
+    "front": "How many selected-response questions typically accompany a dialogue passage on the OSSLT?",
+    "back": "Five selected-response questions typically accompany a dialogue passage."
+  },
+  {
+    "id": 297,
+    "domain": "dialogue_reading",
+    "front": "Why does formatting like a name followed by a colon matter when reading a dialogue passage?",
+    "back": "It tells you exactly which character is speaking each line, and losing track of this formatting under time pressure is a common source of careless mistakes."
+  },
+  {
+    "id": 298,
+    "domain": "dialogue_reading",
+    "front": "What kind of ending do many OSSLT dialogue passages have?",
+    "back": "Many dialogue passages end with some kind of resolution, such as an agreement, a compromise, or a clear decision between the speakers."
+  },
+  {
+    "id": 299,
+    "domain": "dialogue_reading",
+    "front": "Why should you avoid assuming a speaker's opinion is fixed based only on their first line?",
+    "back": "A speaker's opinion can shift after hearing new information or pushback, so the true final position may only be clear from later lines in the conversation."
+  },
+  {
+    "id": 300,
+    "domain": "dialogue_reading",
+    "front": "How does a longer sentence in dialogue typically differ in tone from a short, clipped one?",
+    "back": "A longer sentence often signals someone trying to persuade or reassure, while a short, clipped sentence often signals frustration or impatience."
+  },
+  {
+    "id": 301,
+    "domain": "dialogue_reading",
+    "front": "Why is 'we can infer' language in a question a signal to look beyond the literal words of the dialogue?",
+    "back": "It tells you the answer requires interpreting tone, word choice, or behaviour rather than finding an exact quote stating the answer directly."
+  },
+  {
+    "id": 302,
+    "domain": "dialogue_reading",
+    "front": "What should you do before selecting an answer about which speaker holds a certain opinion?",
+    "back": "Go back to the passage and confirm which name is actually attached to that specific line before choosing your answer."
+  },
+  {
+    "id": 303,
+    "domain": "dialogue_reading",
+    "front": "Why is Diego's line 'We don't have time to start over' not the final outcome of the science fair dialogue?",
+    "back": "It reflects his early resistance in the middle of the conversation, but by the end he agrees to a compromise, so this line does not represent the true final decision."
+  },
+  {
+    "id": 304,
+    "domain": "dialogue_reading",
+    "front": "What does Amara's line 'I'm worried we'll lose marks for not having a real hypothesis' reveal about her priorities?",
+    "back": "It reveals she values having a properly designed experiment and is concerned about following the actual requirements of a science fair project."
+  },
+  {
+    "id": 305,
+    "domain": "dialogue_reading",
+    "front": "Why is a compromise, rather than one speaker simply winning, a common ending for OSSLT dialogue passages?",
+    "back": "These passages are built around realistic everyday disagreements, and a compromise reflects a believable, relatable way two reasonable people resolve a disagreement."
+  },
+  {
+    "id": 306,
+    "domain": "dialogue_reading",
+    "front": "What is a helpful mental question to ask yourself whenever a dialogue speaker says something emotionally charged?",
+    "back": "Ask why the speaker is reacting that way and what clue it gives about their underlying feeling, rather than only noting the words on the surface."
+  },
+  {
+    "id": 307,
+    "domain": "dialogue_reading",
+    "front": "Why might two dialogue passages use different formatting styles, such as a script style versus a narrative style with tags?",
+    "back": "Both formats are common on the OSSLT, and while the visual style differs, the reading skill required, tracking who says what, stays the same either way."
+  },
+  {
+    "id": 308,
+    "domain": "dialogue_reading",
+    "front": "What does the word 'turn-taking' describe in a dialogue passage?",
+    "back": "It describes the back-and-forth structure of a conversation, where meaning builds through each speaker's response to what was just said before."
+  },
+  {
+    "id": 309,
+    "domain": "dialogue_reading",
+    "front": "Why should you slow down when a dialogue passage includes a sudden change in punctuation, like an exclamation mark?",
+    "back": "A sudden change in punctuation is a deliberate signal of increased emotion, and slowing down helps you catch the tone shift before answering a related question."
+  },
+  {
+    "id": 310,
+    "domain": "dialogue_reading",
+    "front": "How can you tell if a character's opinion in a dialogue has genuinely shifted rather than just repeated itself?",
+    "back": "Compare the character's specific wording and attitude near the start of the conversation to their wording and attitude near the end, watching for words that show agreement or backing down."
+  },
+  {
+    "id": 311,
+    "domain": "dialogue_reading",
+    "front": "Why does the OSSLT include dialogue passages about disagreements rather than only friendly conversations?",
+    "back": "Disagreements naturally require tracking two different positions, tone shifts, and eventual resolutions, all of which let the test assess several reading skills at once."
+  },
+  {
+    "id": 312,
+    "domain": "dialogue_reading",
+    "front": "What should you do if a dialogue passage question asks about a speaker's 'overall attitude'?",
+    "back": "Consider the whole conversation from start to finish rather than basing your answer only on the speaker's very first line, since attitudes often shift."
+  },
+  {
+    "id": 313,
+    "domain": "dialogue_reading",
+    "front": "How is 'stated' different from 'suggested' when describing dialogue in an OSSLT question?",
+    "back": "Stated means a speaker says it outright in the text, while suggested means the idea is only implied through tone, word choice, or behaviour rather than said directly."
+  },
+  {
+    "id": 314,
+    "domain": "dialogue_reading",
+    "front": "Why is it a mistake to assume a dialogue passage's outcome will match its opening tone?",
+    "back": "Because a conversation can move from tension to agreement or from calm to conflict, so the ending must be confirmed by reading the actual closing lines."
+  },
+  {
+    "id": 315,
+    "domain": "dialogue_reading",
+    "front": "What might it mean if a dialogue passage shows a speaker's sentences getting shorter as the conversation continues?",
+    "back": "It could signal growing frustration, impatience, or discomfort, since shortened, clipped responses are a common tone-shift clue in dialogue passages."
+  },
+  {
+    "id": 316,
+    "domain": "dialogue_reading",
+    "front": "Why is it useful to ask 'what does Speaker A want?' and 'what does Speaker B want?' early in a dialogue passage?",
+    "back": "It helps you quickly identify each character's position, which makes it easier to track how their views develop or change throughout the conversation."
+  },
+  {
+    "id": 317,
+    "domain": "dialogue_reading",
+    "front": "What is the danger of assuming both speakers in a dialogue are equally invested in an outcome?",
+    "back": "One speaker might care deeply while the other seems indifferent or uncertain, and questions may test whether you can identify these differences in investment or feeling."
+  },
+  {
+    "id": 318,
+    "domain": "dialogue_reading",
+    "front": "Why does the OSSLT test dialogue passages using realistic school or family situations instead of unfamiliar topics?",
+    "back": "So that a Grade 10 student can relate to the situation without needing outside knowledge, since everything needed to answer the questions is inside the conversation itself."
+  },
+  {
+    "id": 319,
+    "domain": "dialogue_reading",
+    "front": "What is the best way to prepare for a question asking why a speaker changed their mind in a dialogue?",
+    "back": "Trace the conversation from the point of disagreement to the moment of the shift, noting the specific words or reasoning that caused the change in position."
+  },
+  {
+    "id": 320,
+    "domain": "dialogue_reading",
+    "front": "Why should you never guess a dialogue answer choice just because it feels emotionally intense?",
+    "back": "Because the correct answer must match the intensity actually shown in the text, and an overly dramatic choice that is not supported by the dialogue will be incorrect."
+  },
+  {
+    "id": 321,
+    "domain": "dialogue_reading",
+    "front": "What is one reason dialogue passages sometimes use dashes or trailing sentences?",
+    "back": "To show a speaker being interrupted or trailing off, which is a deliberate signal of emotion or urgency that the test wants readers to notice."
+  },
+  {
+    "id": 322,
+    "domain": "dialogue_reading",
+    "front": "Why might a dialogue between a student and a coach or parent be used to test reading comprehension?",
+    "back": "It presents a realistic authority-versus-student dynamic that naturally creates differing positions, tone shifts, and a decision, which lets the test assess multiple reading skills."
+  },
+  {
+    "id": 323,
+    "domain": "dialogue_reading",
+    "front": "What is a practical first step when a dialogue passage opens mid-disagreement?",
+    "back": "Quickly identify what each speaker already believes or wants before reading further, so you have a frame for understanding how their positions develop."
+  },
+  {
+    "id": 324,
+    "domain": "dialogue_reading",
+    "front": "Why is it important to notice which speaker proposes the final compromise in a dialogue passage?",
+    "back": "Because a question about the resolution may ask specifically who suggested the final plan, and misattributing the idea to the wrong speaker is a common trap."
+  },
+  {
+    "id": 325,
+    "domain": "dialogue_reading",
+    "front": "What does it mean if a dialogue passage question says a speaker's tone is 'measured' compared to 'heated'?",
+    "back": "A measured tone stays calm and controlled while a heated tone shows rising emotion or urgency, and the correct answer should match the actual intensity shown in the lines."
+  },
+  {
+    "id": 326,
+    "domain": "dialogue_reading",
+    "front": "Why should a reader avoid over-interpreting a single word choice in isolation during a dialogue passage?",
+    "back": "A single word can be ambiguous on its own, so the safest inference comes from combining several clues, such as sentence length, punctuation, and word choice together."
+  },
+  {
+    "id": 327,
+    "domain": "dialogue_reading",
+    "front": "What is a reliable way to confirm you have correctly identified the passage's resolution?",
+    "back": "Reread the final two or three lines of the dialogue specifically, since the true outcome is almost always confirmed there rather than earlier in the conversation."
+  },
+  {
+    "id": 328,
+    "domain": "dialogue_reading",
+    "front": "Why does the OSSLT dialogue chapter emphasize checking exact lines before answering rather than relying on a general impression?",
+    "back": "Because dialogue passages often have several exchanges, and a general impression can easily blur which speaker said which specific detail."
+  },
+  {
+    "id": 329,
+    "domain": "dialogue_reading",
+    "front": "What kind of question would ask 'What does Priya's response suggest about her approach to deadlines?'",
+    "back": "An inference question, since the word 'suggest' signals that the answer must be reasoned from Priya's tone and word choice rather than found as a direct statement."
+  },
+  {
+    "id": 330,
+    "domain": "dialogue_reading",
+    "front": "Why can a dialogue passage's ending feel different from its beginning even though no narrator explains the change?",
+    "back": "Because tone shifts in dialogue are shown entirely through word choice, punctuation, and how each speaker responds to the other, without any narrator stating the change directly."
+  },
+  {
+    "id": 331,
+    "domain": "writing_selected_response",
+    "front": "What does the word 'conventions' mean on the OSSLT?",
+    "back": "Conventions means the normal rules of written English: spelling, grammar, and punctuation, which help writing make sense to a reader."
+  },
+  {
+    "id": 332,
+    "domain": "writing_selected_response",
+    "front": "What is the key idea EQAO uses when scoring conventions?",
+    "back": "Errors matter most when they get in the way of communication. A small typo a reader can see past is less serious than an error that actually confuses meaning."
+  },
+  {
+    "id": 333,
+    "domain": "writing_selected_response",
+    "front": "Give an example of a convention error that confuses meaning rather than just looking like a typo.",
+    "back": "Mixing up 'it's' and 'its,' as in 'The dog bit the man who was running from it's owner,' which genuinely confuses who owns what."
+  },
+  {
+    "id": 334,
+    "domain": "writing_selected_response",
+    "front": "What does 'organization' mean on the OSSLT writing section?",
+    "back": "Organization is about how ideas are arranged, not individual words or punctuation, including whether there is a clear topic sentence and a logical sentence order."
+  },
+  {
+    "id": 335,
+    "domain": "writing_selected_response",
+    "front": "What four features make up good paragraph organization?",
+    "back": "A topic sentence stating the main idea, supporting details in logical order, transition words showing how ideas connect, and a conclusion or closing idea."
+  },
+  {
+    "id": 336,
+    "domain": "writing_selected_response",
+    "front": "What is the rule for subject-verb agreement?",
+    "back": "The subject of a sentence and its verb need to match in number: a singular subject takes a singular verb, and a plural subject takes a plural verb."
+  },
+  {
+    "id": 337,
+    "domain": "writing_selected_response",
+    "front": "Why is 'The list of items is on the table' correct rather than 'The list of items are on the table'?",
+    "back": "The subject is 'list,' which is singular, not 'items,' even though 'items' sits closer to the verb, so the verb must agree with 'list.'"
+  },
+  {
+    "id": 338,
+    "domain": "writing_selected_response",
+    "front": "What problem does the sentence 'Sarah told her sister that she had won the contest' have?",
+    "back": "It is confusing pronoun use, since it is unclear whether 'she' refers to Sarah or her sister."
+  },
+  {
+    "id": 339,
+    "domain": "writing_selected_response",
+    "front": "How can you fix unclear pronoun reference, using the Sarah and her sister example?",
+    "back": "Replace the unclear pronoun with the actual noun it refers to, or rewrite using a direct quotation, such as 'Sarah told her sister, \"I won the contest.\"'"
+  },
+  {
+    "id": 340,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between a subject pronoun and an object pronoun?",
+    "back": "Subject pronouns (I, he, she, we, they) perform the action, while object pronouns (me, him, her, us, them) receive the action."
+  },
+  {
+    "id": 341,
+    "domain": "writing_selected_response",
+    "front": "Why is 'My friend and I went to the store' correct rather than 'Me and my friend went to the store'?",
+    "back": "'I' is the subject pronoun performing the action of going, while 'me' is an object pronoun, so 'I' is correct as the subject."
+  },
+  {
+    "id": 342,
+    "domain": "writing_selected_response",
+    "front": "What trick can you use to check whether 'I' or 'me' is correct in a sentence with two people?",
+    "back": "Remove the other person from the sentence and see if it still sounds right, since 'Me went to the store' clearly sounds wrong."
+  },
+  {
+    "id": 343,
+    "domain": "writing_selected_response",
+    "front": "What is a comma splice?",
+    "back": "A comma splice happens when two complete sentences are joined with only a comma and nothing else, such as 'The rain started, we went inside.'"
+  },
+  {
+    "id": 344,
+    "domain": "writing_selected_response",
+    "front": "What is a run-on sentence?",
+    "back": "A run-on sentence happens when two complete sentences are joined with no punctuation at all, such as 'The rain started we went inside.'"
+  },
+  {
+    "id": 345,
+    "domain": "writing_selected_response",
+    "front": "Name four ways to fix a comma splice or run-on sentence.",
+    "back": "Add a period to make two sentences, add a comma plus a coordinating conjunction, add a semicolon, or turn one clause into a dependent clause."
+  },
+  {
+    "id": 346,
+    "domain": "writing_selected_response",
+    "front": "What are the seven coordinating conjunctions used to fix a comma splice?",
+    "back": "And, but, or, so, for, nor, and yet."
+  },
+  {
+    "id": 347,
+    "domain": "writing_selected_response",
+    "front": "What is a sentence fragment?",
+    "back": "A sentence fragment is a group of words that looks like a sentence but is missing something needed to be complete, usually a subject, a verb, or a complete thought."
+  },
+  {
+    "id": 348,
+    "domain": "writing_selected_response",
+    "front": "Why is 'Because she was late for school' a fragment rather than a complete sentence?",
+    "back": "It sets up a dependent clause but never completes the thought, so it needs an independent clause attached, such as 'Because she was late for school, she missed the bus.'"
+  },
+  {
+    "id": 349,
+    "domain": "writing_selected_response",
+    "front": "What are the main jobs of a comma?",
+    "back": "Separating items in a list, separating an introductory phrase from the main sentence, setting off extra information, and joining two sentences with a conjunction."
+  },
+  {
+    "id": 350,
+    "domain": "writing_selected_response",
+    "front": "What are the two main jobs of an apostrophe?",
+    "back": "Showing possession, meaning something belongs to someone, and forming a contraction by joining two words into one shorter word."
+  },
+  {
+    "id": 351,
+    "domain": "writing_selected_response",
+    "front": "Why is 'I have three cat's' incorrect?",
+    "back": "An apostrophe should not be added just to make a word plural. The correct plural form is 'cats,' with no apostrophe."
+  },
+  {
+    "id": 352,
+    "domain": "writing_selected_response",
+    "front": "How should quotation marks be punctuated when introducing a person's exact words?",
+    "back": "A comma comes before the quotation mark, and the quoted sentence begins with a capital letter, as in 'She said, \"I will be there at noon.\"'"
+  },
+  {
+    "id": 353,
+    "domain": "writing_selected_response",
+    "front": "What are homophones?",
+    "back": "Homophones are words that sound the same but have different spellings and meanings, such as their, there, and they're."
+  },
+  {
+    "id": 354,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between their, there, and they're?",
+    "back": "Their shows possession, there refers to a place or introduces a sentence, and they're is a contraction of 'they are.'"
+  },
+  {
+    "id": 355,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between its and it's?",
+    "back": "Its shows possession, as in 'The dog wagged its tail,' while it's is a contraction of 'it is' or 'it has,' as in 'It's raining outside.'"
+  },
+  {
+    "id": 356,
+    "domain": "writing_selected_response",
+    "front": "What trick helps decide between its and it's?",
+    "back": "If you can replace the word with 'it is' and the sentence still makes sense, use the apostrophe form 'it's.' If not, use 'its' without an apostrophe."
+  },
+  {
+    "id": 357,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between your and you're?",
+    "back": "Your shows possession, as in 'Is this your backpack?' while you're is a contraction of 'you are,' as in 'You're going to be late.'"
+  },
+  {
+    "id": 358,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between affect and effect?",
+    "back": "Affect is usually a verb meaning to influence something, while effect is usually a noun meaning a result."
+  },
+  {
+    "id": 359,
+    "domain": "writing_selected_response",
+    "front": "What memory trick helps distinguish affect from effect?",
+    "back": "Affect is an Action (both start with A), and effect is the End result (both start with E)."
+  },
+  {
+    "id": 360,
+    "domain": "writing_selected_response",
+    "front": "What is a topic sentence's role in paragraph organization?",
+    "back": "A topic sentence introduces the main idea of a paragraph and should be broad enough to cover the whole paragraph but specific enough to tell the reader what it is about."
+  },
+  {
+    "id": 361,
+    "domain": "writing_selected_response",
+    "front": "What is meant by 'logical paragraph order'?",
+    "back": "Sentences and paragraphs need to follow a sensible order, such as chronological order, the order of steps in a process, or general ideas moving to specific details."
+  },
+  {
+    "id": 362,
+    "domain": "writing_selected_response",
+    "front": "What do transition words do in a paragraph?",
+    "back": "Transition words act like road signs, telling the reader what kind of idea is coming next, such as a contrast, a result, an additional point, or a change in time."
+  },
+  {
+    "id": 363,
+    "domain": "writing_selected_response",
+    "front": "What do the words 'however,' 'on the other hand,' and 'in contrast' signal?",
+    "back": "They signal a contrast or a change in direction in the ideas being presented."
+  },
+  {
+    "id": 364,
+    "domain": "writing_selected_response",
+    "front": "What do the words 'therefore,' 'as a result,' and 'consequently' signal?",
+    "back": "They signal a result or a conclusion following from what was just said."
+  },
+  {
+    "id": 365,
+    "domain": "writing_selected_response",
+    "front": "What do the words 'in addition,' 'furthermore,' and 'also' signal?",
+    "back": "They signal that another similar point is coming, adding to what was already said."
+  },
+  {
+    "id": 366,
+    "domain": "writing_selected_response",
+    "front": "What do the words 'for example,' 'for instance,' and 'such as' signal?",
+    "back": "They signal that a specific example is coming to illustrate the point just made."
+  },
+  {
+    "id": 367,
+    "domain": "writing_selected_response",
+    "front": "What do the words 'meanwhile,' 'after that,' 'next,' and 'finally' signal?",
+    "back": "They signal a change in time or sequence, showing how events or steps relate chronologically."
+  },
+  {
+    "id": 368,
+    "domain": "writing_selected_response",
+    "front": "What is the process for removing an irrelevant sentence from a paragraph?",
+    "back": "Identify the sentence that goes off topic and does not support the paragraph's main idea, even if it is interesting on its own, and remove it."
+  },
+  {
+    "id": 369,
+    "domain": "writing_selected_response",
+    "front": "When should two short, choppy sentences be combined into one?",
+    "back": "When they communicate more clearly together than as two separate, disconnected statements, such as combining 'The dog was hungry. The dog waited by its bowl' into one sentence."
+  },
+  {
+    "id": 370,
+    "domain": "writing_selected_response",
+    "front": "When should a long, overloaded sentence be split into two?",
+    "back": "When a sentence tries to pack too many ideas together with repeated 'and's, making it clearer to separate the ideas into two properly punctuated sentences."
+  },
+  {
+    "id": 371,
+    "domain": "writing_selected_response",
+    "front": "In the bus example, why is 'The bus arrived late, so the students missed their first class' the best revision of a comma splice?",
+    "back": "It correctly adds the coordinating conjunction 'so,' linking the cause (the bus was late) to the result (students missed class) without leaving a comma splice."
+  },
+  {
+    "id": 372,
+    "domain": "writing_selected_response",
+    "front": "In the Jenna example, how is unclear pronoun reference best fixed?",
+    "back": "By replacing the ambiguous pronoun with the specific noun it refers to, such as changing 'she thanked her' to 'her mother thanked her,' removing any confusion about who is doing what."
+  },
+  {
+    "id": 373,
+    "domain": "writing_selected_response",
+    "front": "In the recycling paragraph example, which sentence should be removed and why?",
+    "back": "The sentence about a hobby of collecting comic books should be removed because it is about a completely different topic and does not support the paragraph's main idea about recycling."
+  },
+  {
+    "id": 374,
+    "domain": "writing_selected_response",
+    "front": "In the plastic-reduction paragraph example, what is the correct logical order of the four sentences?",
+    "back": "Introduce the campaign, explain how it began with posters, explain the result using 'as a result,' and finish with the final outcome of less garbage."
+  },
+  {
+    "id": 375,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about subject-verb agreement when reviewing a sentence?",
+    "back": "Does the subject match the verb, especially when another phrase sits between them that might tempt you to match the verb to the wrong noun?"
+  },
+  {
+    "id": 376,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about pronouns when reviewing a sentence?",
+    "back": "Is it clear which specific noun each pronoun in the sentence refers to, with no ambiguity about who is being talked about?"
+  },
+  {
+    "id": 377,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about sentence completeness when reviewing writing?",
+    "back": "Is every group of words a complete sentence, containing a subject, a verb, and a complete thought, with no fragments?"
+  },
+  {
+    "id": 378,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about commas, apostrophes, and quotation marks when reviewing writing?",
+    "back": "Are commas, apostrophes, and quotation marks used correctly for their specific jobs, such as possession, contraction, or setting off quoted speech?"
+  },
+  {
+    "id": 379,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about homophones when reviewing writing?",
+    "back": "Are commonly confused homophones such as their/there/they're, its/it's, your/you're, and effect/affect used correctly throughout the writing?"
+  },
+  {
+    "id": 380,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about topic sentences when reviewing paragraph organization?",
+    "back": "Is there a clear topic sentence that tells the reader what the paragraph is about, usually placed first?"
+  },
+  {
+    "id": 381,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about sentence order when reviewing paragraph organization?",
+    "back": "Are the sentences arranged in a logical order that a reader could easily follow, such as chronological or general-to-specific order?"
+  },
+  {
+    "id": 382,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about transitions when reviewing paragraph organization?",
+    "back": "Do the transition words correctly signal how ideas connect, such as contrast, result, addition, example, or sequence?"
+  },
+  {
+    "id": 383,
+    "domain": "writing_selected_response",
+    "front": "What checklist question should you ask about paragraph focus when reviewing organization?",
+    "back": "Does every sentence belong to the same main idea, or is there a sentence that goes off topic and should be removed?"
+  },
+  {
+    "id": 384,
+    "domain": "writing_selected_response",
+    "front": "How many questions on the OSSLT test writing conventions and organization through selected response?",
+    "back": "Twelve questions test conventions and organization, using formats like choosing the best fix, dragging sentences into order, or picking the best word from a drop-down list."
+  },
+  {
+    "id": 385,
+    "domain": "writing_selected_response",
+    "front": "Why is a small spelling slip like 'recieve' for 'receive' considered less serious under the OSSLT conventions rubric?",
+    "back": "Because the reader still understands the intended word, so the error does not get in the way of communication even though it is technically incorrect."
+  },
+  {
+    "id": 386,
+    "domain": "writing_selected_response",
+    "front": "What is the underlying goal behind every OSSLT conventions question that asks for the 'best' revision?",
+    "back": "To identify which version communicates the idea most clearly and correctly, even when more than one option might be grammatically acceptable."
+  },
+  {
+    "id": 387,
+    "domain": "writing_selected_response",
+    "front": "Why does inserting a phrase between a subject and a verb create a common agreement error?",
+    "back": "The eye is tempted to match the verb to the closest noun in the inserted phrase rather than to the true subject of the sentence, causing a mismatch."
+  },
+  {
+    "id": 388,
+    "domain": "writing_selected_response",
+    "front": "What kind of question format asks you to select the correct word to complete a sentence from a small list, such as their/there/they're?",
+    "back": "A drop-down menu style question testing homophone or word choice knowledge within a sentence."
+  },
+  {
+    "id": 389,
+    "domain": "writing_selected_response",
+    "front": "Why is 'Theyre' an incorrect spelling in a drop-down homophone question?",
+    "back": "It is missing the apostrophe needed to correctly form the contraction 'they're,' meaning 'they are.'"
+  },
+  {
+    "id": 390,
+    "domain": "writing_selected_response",
+    "front": "What is the purpose of a coordinating conjunction like 'so' when fixing a comma splice?",
+    "back": "It correctly links two independent clauses by showing the logical relationship between them, such as cause and effect, rather than joining them with only a comma."
+  },
+  {
+    "id": 391,
+    "domain": "writing_selected_response",
+    "front": "Why does a semicolon work as a fix for a comma splice?",
+    "back": "A semicolon can join two closely related independent clauses without needing a conjunction, correctly separating the two complete thoughts while showing they are connected."
+  },
+  {
+    "id": 392,
+    "domain": "writing_selected_response",
+    "front": "What happens when a dependent clause like 'When the rain started' is used to fix a comma splice?",
+    "back": "It turns one of the two complete sentences into a dependent clause, so the sentence now has one main idea supported by an introductory clause instead of two spliced sentences."
+  },
+  {
+    "id": 393,
+    "domain": "writing_selected_response",
+    "front": "How would you fix the fragment 'Running down the street as fast as he could'?",
+    "back": "Add a subject and helping verb to complete the thought, such as 'He was running down the street as fast as he could.'"
+  },
+  {
+    "id": 394,
+    "domain": "writing_selected_response",
+    "front": "Why is 'My brother, who is in Grade 12, plays hockey' punctuated correctly with commas?",
+    "back": "The commas set off the extra information about the brother being in Grade 12, which is not essential to the main sentence but adds detail."
+  },
+  {
+    "id": 395,
+    "domain": "writing_selected_response",
+    "front": "What is wrong with a paragraph that has a clear topic sentence but jumbled sentence order?",
+    "back": "The reader has to work hard to piece together the meaning, and sometimes the meaning gets lost completely, even though each individual sentence may be well written."
+  },
+  {
+    "id": 396,
+    "domain": "writing_selected_response",
+    "front": "What writing skill does Chapter 7 focus on, alongside organization and conventions?",
+    "back": "Developing a main idea with sufficient supporting details, one of the three writing skills EQAO measures on the OSSLT."
+  },
+  {
+    "id": 397,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between a topic and a claim?",
+    "back": "A topic is a subject area that does not take a position, such as 'part-time jobs,' while a claim is a specific statement that says something about the topic and can be agreed or disagreed with."
+  },
+  {
+    "id": 398,
+    "domain": "writing_selected_response",
+    "front": "Why is 'This paragraph is about part-time jobs' too vague to be a main idea?",
+    "back": "It only names a topic and takes no position, so there is nothing for a reader to agree with, disagree with, or ask you to prove."
+  },
+  {
+    "id": 399,
+    "domain": "writing_selected_response",
+    "front": "What three qualities does a strong main idea usually have?",
+    "back": "It is specific, it is arguable or explainable, and it fits in one clear sentence."
+  },
+  {
+    "id": 400,
+    "domain": "writing_selected_response",
+    "front": "Why must a strong main idea fit in one sentence?",
+    "back": "If you cannot state your main idea in one clear sentence, you are usually trying to cover too many ideas at once, and you should save the extra idea for another paragraph."
+  },
+  {
+    "id": 401,
+    "domain": "writing_selected_response",
+    "front": "What is the 'so what?' test for checking whether you have written a real claim?",
+    "back": "Asking 'so what?' after your sentence. If it is just a label for a topic, there is nothing to defend, but if it is a real claim, 'so what?' leads directly into your supporting details."
+  },
+  {
+    "id": 402,
+    "domain": "writing_selected_response",
+    "front": "What does EQAO mean by 'sufficient supporting details'?",
+    "back": "Sufficient means there is enough support, and that the support is specific enough to actually convince a reader, since one vague detail is not enough."
+  },
+  {
+    "id": 403,
+    "domain": "writing_selected_response",
+    "front": "What does it mean for a detail to be 'supporting' rather than just true?",
+    "back": "A supporting detail is directly connected to the main idea, giving evidence, a reason, an example, or a fact that backs up the claim, rather than unrelated extra information."
+  },
+  {
+    "id": 404,
+    "domain": "writing_selected_response",
+    "front": "Name four types of filler that weaken a paragraph.",
+    "back": "Vague statements that could apply to anything, repetition restating the same point in different words, general claims with no specific example, and true details that do not connect back to the main idea."
+  },
+  {
+    "id": 405,
+    "domain": "writing_selected_response",
+    "front": "Name four features of a real supporting detail.",
+    "back": "A specific example with names or numbers, a concrete reason explaining WHY the main idea is true, a checkable fact, and a detail that clearly links back to the claim."
+  },
+  {
+    "id": 406,
+    "domain": "writing_selected_response",
+    "front": "What is the 'delete test' for spotting filler in a paragraph?",
+    "back": "If you could delete a sentence and the paragraph would lose no real information, that sentence was filler. If deleting it would leave a hole in the argument, it was doing real work."
+  },
+  {
+    "id": 407,
+    "domain": "writing_selected_response",
+    "front": "What three parts make up a strong paragraph?",
+    "back": "The topic sentence, the supporting sentences, and the concluding or transition sentence."
+  },
+  {
+    "id": 408,
+    "domain": "writing_selected_response",
+    "front": "Where should the topic sentence go in OSSLT writing, and why?",
+    "back": "First, since putting it first is the clearest, safest structure and tells the reader exactly what is coming."
+  },
+  {
+    "id": 409,
+    "domain": "writing_selected_response",
+    "front": "How many supporting sentences does a strong paragraph typically include?",
+    "back": "Usually two to four sentences, each giving a specific detail, example, reason, or fact that backs up the topic sentence."
+  },
+  {
+    "id": 410,
+    "domain": "writing_selected_response",
+    "front": "What should a concluding sentence do, according to Chapter 7?",
+    "back": "It should wrap up the paragraph's point or connect smoothly to what comes next, without simply repeating the topic sentence word for word."
+  },
+  {
+    "id": 411,
+    "domain": "writing_selected_response",
+    "front": "Why was the weak paragraph about part-time jobs considered weak?",
+    "back": "Its opening sentence was a topic dressed up as a claim, every supporting sentence repeated the same vague idea in different words, and the conclusion just restated the opening."
+  },
+  {
+    "id": 412,
+    "domain": "writing_selected_response",
+    "front": "What made the strong paragraph about part-time jobs effective?",
+    "back": "Its topic sentence named the exact skill and previewed categories of evidence, each supporting sentence gave a different concrete detail, and the conclusion extended the idea rather than repeating it."
+  },
+  {
+    "id": 413,
+    "domain": "writing_selected_response",
+    "front": "What is Step 1 of building a paragraph, according to Chapter 7?",
+    "back": "Brainstorm and state your main idea as a claim, pushing past the first vague sentence that comes to mind to name a specific reason."
+  },
+  {
+    "id": 414,
+    "domain": "writing_selected_response",
+    "front": "What is Step 2 of building a paragraph, according to Chapter 7?",
+    "back": "Generate three specific supporting details, asking yourself 'can I picture this?' and 'is this different from my other details?' for each one."
+  },
+  {
+    "id": 415,
+    "domain": "writing_selected_response",
+    "front": "What is Step 3 of building a paragraph, according to Chapter 7?",
+    "back": "Arrange the details logically, such as moving from the most concrete everyday detail to the most impressive one, or grouping similar ideas together."
+  },
+  {
+    "id": 416,
+    "domain": "writing_selected_response",
+    "front": "What is Step 4 of building a paragraph, according to Chapter 7?",
+    "back": "Write a concluding sentence that sums up why the evidence matters or points toward an action, rather than copying the topic sentence."
+  },
+  {
+    "id": 417,
+    "domain": "writing_selected_response",
+    "front": "In the environmental club example, what three genuinely different supporting details are given?",
+    "back": "The composting program cutting cafeteria garbage, members learning hands-on skills like gardening and soil testing, and the club representing the school at a regional competition."
+  },
+  {
+    "id": 418,
+    "domain": "writing_selected_response",
+    "front": "Why do the three environmental club details work well together?",
+    "back": "They cover three different angles, waste reduction, skill building, and school reputation, rather than being three versions of the same idea."
+  },
+  {
+    "id": 419,
+    "domain": "writing_selected_response",
+    "front": "In Practice Question 1 about cooking, why is the pasta and stir-fry option the best supporting sentence?",
+    "back": "It gives a specific, concrete example and directly connects it to a real benefit, saving money instead of relying on expensive takeout, which supports the claim about a useful life skill."
+  },
+  {
+    "id": 420,
+    "domain": "writing_selected_response",
+    "front": "In Practice Question 2 about sleep, which sentence does not belong, and why?",
+    "back": "The sentence about students enjoying staying up late does not belong, since it explains a cause of poor sleep rather than supporting the claim that sleep improves school performance."
+  },
+  {
+    "id": 421,
+    "domain": "writing_selected_response",
+    "front": "In Practice Question 3 about group projects, why is the scheduling example the best supporting sentence?",
+    "back": "It gives a specific scenario, a student organizing meetings, and explains exactly what teamwork skill the group learns, shared responsibility keeping a project on track."
+  },
+  {
+    "id": 422,
+    "domain": "writing_selected_response",
+    "front": "In Practice Question 4 about volunteering and empathy, which sentence does not belong, and why?",
+    "back": "The sentence about food banks relying on volunteer labour does not belong, since it is about the food bank's operations rather than what a student learns or feels while volunteering."
+  },
+  {
+    "id": 423,
+    "domain": "writing_selected_response",
+    "front": "Why is 'Cooking can be fun and some people really enjoy it' a weak supporting sentence for the claim that cooking teaches a life skill?",
+    "back": "It is vague and does not connect to the specific idea of a 'life skill,' focusing on enjoyment instead of the skill being developed."
+  },
+  {
+    "id": 424,
+    "domain": "writing_selected_response",
+    "front": "Why is a general true fact, like 'group projects are common in classes,' not strong support for a teamwork claim?",
+    "back": "It does not explain HOW group projects build teamwork skills, so it fails to connect specifically to the claim even though it is a true statement."
+  },
+  {
+    "id": 425,
+    "domain": "writing_selected_response",
+    "front": "What five habits should you keep in mind every time you build a paragraph, according to Chapter 7?",
+    "back": "Turn your topic into a claim first, give each supporting sentence a specific job, ask 'can I picture this?' for every detail, order details logically, and end with a sentence that adds something new."
+  },
+  {
+    "id": 426,
+    "domain": "writing_selected_response",
+    "front": "Why should two supporting sentences never do the same job in a paragraph?",
+    "back": "If two sentences repeat the same point, one should be cut and replaced with a genuinely different angle, since repetition does not add new evidence."
+  },
+  {
+    "id": 427,
+    "domain": "writing_selected_response",
+    "front": "What question can you ask to test whether a supporting detail is specific enough?",
+    "back": "Can I picture this? If the answer is no, the detail is too vague to count as real evidence."
+  },
+  {
+    "id": 428,
+    "domain": "writing_selected_response",
+    "front": "Why does Chapter 7 recommend ordering supporting details logically instead of randomly?",
+    "back": "A logical order, such as building from the daily impact to the personal impact to the outward impact, makes the argument easier for a reader to follow and feel convinced by."
+  },
+  {
+    "id": 429,
+    "domain": "writing_selected_response",
+    "front": "How does the concluding sentence in the strong part-time job paragraph avoid simply repeating the topic sentence?",
+    "back": "It extends the idea forward by connecting the paragraph's point to adulthood, rather than restating that part-time jobs teach responsibility."
+  },
+  {
+    "id": 430,
+    "domain": "writing_selected_response",
+    "front": "What is the risk of writing a main idea that is a plain fact nobody would question?",
+    "back": "There is nothing left to support or prove, since a good main idea should be arguable or explainable enough to require evidence."
+  },
+  {
+    "id": 431,
+    "domain": "writing_selected_response",
+    "front": "Why is 'Part-time jobs teach teenagers responsibility because they force students to manage their own time, money, and commitments' a stronger main idea than 'Part-time jobs are good'?",
+    "back": "It is specific, naming the exact skill (responsibility) and reasons (time, money, commitments), rather than making a vague, unspecific claim."
+  },
+  {
+    "id": 432,
+    "domain": "writing_selected_response",
+    "front": "What is the connection between Chapter 7's paragraph-building skills and the opinion essay in Chapter 8?",
+    "back": "The same skills used to build one strong paragraph, a claim supported by specific details, are used repeatedly to build each body paragraph of a full multi-paragraph opinion essay."
+  },
+  {
+    "id": 433,
+    "domain": "writing_selected_response",
+    "front": "Why does a paragraph lose credibility when every supporting sentence restates the same vague idea?",
+    "back": "A reader finishes the paragraph knowing nothing more than before, since no new evidence or angle was actually added beyond the initial vague claim."
+  },
+  {
+    "id": 434,
+    "domain": "writing_selected_response",
+    "front": "What kind of supporting detail would most likely lose marks even though it is factually true?",
+    "back": "A detail that is true but does not connect back to the specific main idea, since it fails to actually support the claim being made."
+  },
+  {
+    "id": 435,
+    "domain": "writing_selected_response",
+    "front": "Why is naming a specific number, name, or moment more convincing than a general statement in a supporting sentence?",
+    "back": "Specific details let a reader picture a real situation clearly, while general statements like 'it helps a lot of people' could apply to almost any topic and prove nothing."
+  },
+  {
+    "id": 436,
+    "domain": "writing_selected_response",
+    "front": "How should you handle a supporting detail idea that feels the same as one you already used?",
+    "back": "Replace it with a genuinely different angle, since Chapter 7 recommends asking 'is this different from my other details?' before including it."
+  },
+  {
+    "id": 437,
+    "domain": "writing_selected_response",
+    "front": "Why is a paragraph's concluding sentence important even though it does not add new evidence?",
+    "back": "It shows the point has been proven or points the reader toward what comes next, giving the paragraph a sense of completion rather than an abrupt stop."
+  },
+  {
+    "id": 438,
+    "domain": "writing_selected_response",
+    "front": "What percentage of the total OSSLT score does the opinion essay represent?",
+    "back": "The opinion essay is worth 25 percent of the total OSSLT score."
+  },
+  {
+    "id": 439,
+    "domain": "writing_selected_response",
+    "front": "What does an OSSLT opinion prompt typically ask you to do?",
+    "back": "It gives a topic or statement and asks you to agree or disagree, or take a position on a question, usually one built to have two reasonable sides."
+  },
+  {
+    "id": 440,
+    "domain": "writing_selected_response",
+    "front": "Why are OSSLT opinion prompts built to have two reasonable sides?",
+    "back": "Because the test is not checking whether you land on the 'right' opinion, it is checking whether you can state an opinion clearly and support it with real reasons."
+  },
+  {
+    "id": 441,
+    "domain": "writing_selected_response",
+    "front": "What is the single biggest mistake students make on the opinion essay task?",
+    "back": "Trying to sit on the fence by saying 'there are good points on both sides' without committing to one clear position."
+  },
+  {
+    "id": 442,
+    "domain": "writing_selected_response",
+    "front": "What happens to your score if your opinion wavers or contradicts itself between paragraphs?",
+    "back": "You lose marks on the Topic Development rubric even if your grammar is perfect, since the rubric specifically rewards a clear and consistent opinion."
+  },
+  {
+    "id": 443,
+    "domain": "writing_selected_response",
+    "front": "What is the fast method for picking a side on an opinion prompt under time pressure?",
+    "back": "Read the prompt twice, then ask which side you can think of two or three specific reasons for right now, and pick that side rather than the side you personally believe in most."
+  },
+  {
+    "id": 444,
+    "domain": "writing_selected_response",
+    "front": "Why does Chapter 8 say to pick the side that is easier to argue rather than your true personal belief?",
+    "back": "The exam is testing your writing and reasoning skills within a timed first draft, not collecting your genuine life philosophy, so the easier-to-argue side is a valid strategic choice."
+  },
+  {
+    "id": 445,
+    "domain": "writing_selected_response",
+    "front": "What is a useful habit once you pick your side for an opinion essay?",
+    "back": "Write it down as a short plan note before starting your introduction, such as 'Opinion: agree, volunteer hours should be required,' to avoid drifting into the other side by accident."
+  },
+  {
+    "id": 446,
+    "domain": "writing_selected_response",
+    "front": "How many paragraphs make up the repeatable structure recommended for the opinion essay?",
+    "back": "Five paragraphs: an introduction, two or three body paragraphs, and a conclusion."
+  },
+  {
+    "id": 447,
+    "domain": "writing_selected_response",
+    "front": "What should the introduction paragraph of an opinion essay include?",
+    "back": "The topic stated in one sentence, your opinion stated clearly in the next sentence, and optionally a brief mention of your two or three main reasons."
+  },
+  {
+    "id": 448,
+    "domain": "writing_selected_response",
+    "front": "How long should the introduction and conclusion paragraphs of an opinion essay be?",
+    "back": "Both should be kept short, with the introduction around three to five sentences and the conclusion around three to four sentences."
+  },
+  {
+    "id": 449,
+    "domain": "writing_selected_response",
+    "front": "What is the pattern for each body paragraph of an opinion essay?",
+    "back": "State the reason in one sentence, then spend the rest of the paragraph explaining it with a specific detail, example, or piece of reasoning, without just repeating the reason in different words."
+  },
+  {
+    "id": 450,
+    "domain": "writing_selected_response",
+    "front": "Is a third body paragraph required in the opinion essay structure?",
+    "back": "It is optional but recommended if you have time, since a third reason strengthens the essay, though two strong body paragraphs with real detail beat three thin ones."
+  },
+  {
+    "id": 451,
+    "domain": "writing_selected_response",
+    "front": "What should the conclusion paragraph of an opinion essay do?",
+    "back": "Restate the opinion in different words than the introduction, briefly sum up the main reasons, and end with a closing thought."
+  },
+  {
+    "id": 452,
+    "domain": "writing_selected_response",
+    "front": "What three chunks of time should you plan for when writing a timed opinion essay?",
+    "back": "Planning, writing, and reviewing."
+  },
+  {
+    "id": 453,
+    "domain": "writing_selected_response",
+    "front": "What should happen during the planning stage of an opinion essay?",
+    "back": "Read the prompt, pick your side, and jot down your opinion plus two or three reasons in point form, without writing full sentences yet."
+  },
+  {
+    "id": 454,
+    "domain": "writing_selected_response",
+    "front": "What should you do during the writing stage of an opinion essay?",
+    "back": "Work through your five paragraphs in order following your plan, without stopping to fix small spelling mistakes, since those can be fixed during review."
+  },
+  {
+    "id": 455,
+    "domain": "writing_selected_response",
+    "front": "What should you check during the reviewing stage of an opinion essay?",
+    "back": "Fix obvious spelling and punctuation errors, confirm your opinion is stated clearly and consistently in both the introduction and conclusion, and check each body paragraph has a specific detail."
+  },
+  {
+    "id": 456,
+    "domain": "writing_selected_response",
+    "front": "What does the Topic Development rubric want beyond just an opinion?",
+    "back": "It wants the opinion developed with sufficient, specific, and thoughtfully chosen details, not just a vague statement left unsupported."
+  },
+  {
+    "id": 457,
+    "domain": "writing_selected_response",
+    "front": "What are the three quick sources of specific detail suggested for generating essay content quickly?",
+    "back": "Personal experience, observation, and logical reasoning."
+  },
+  {
+    "id": 458,
+    "domain": "writing_selected_response",
+    "front": "What is 'personal experience' as a source of essay detail?",
+    "back": "Drawing on something you or someone you know has done related to the topic, even a small real or realistic example works."
+  },
+  {
+    "id": 459,
+    "domain": "writing_selected_response",
+    "front": "What is 'observation' as a source of essay detail?",
+    "back": "Noticing something that has happened around you, at school or in your community, that relates to the essay topic."
+  },
+  {
+    "id": 460,
+    "domain": "writing_selected_response",
+    "front": "What is 'logical reasoning' as a source of essay detail?",
+    "back": "Walking through the cause and effect of your point step by step, explaining a chain of reasoning from one idea to its consequence."
+  },
+  {
+    "id": 461,
+    "domain": "writing_selected_response",
+    "front": "Why is 'It helps people' considered a weak detail compared to a specific alternative?",
+    "back": "It is too vague to picture, while a specific detail names exactly what is learned or how it happens, such as building confidence for job interviews through practising conversations with adults."
+  },
+  {
+    "id": 462,
+    "domain": "writing_selected_response",
+    "front": "What question should you ask after writing each reason in an opinion essay to strengthen it?",
+    "back": "Can I add one more sentence that gives an example or explains exactly how or why this happens? That extra sentence often moves a paragraph from a mid-range mark to a top mark."
+  },
+  {
+    "id": 463,
+    "domain": "writing_selected_response",
+    "front": "Out of how many points is the Topic Development rubric scored, and in what increments?",
+    "back": "The Topic Development rubric is scored from 0 to 60, in steps of 10."
+  },
+  {
+    "id": 464,
+    "domain": "writing_selected_response",
+    "front": "What four questions does the Topic Development rubric really ask, in plain language?",
+    "back": "Is your opinion clear? Is your opinion consistent? Do you have enough specific supporting details? Is your essay organized with a logical flow?"
+  },
+  {
+    "id": 465,
+    "domain": "writing_selected_response",
+    "front": "What does it mean for an opinion to be 'clear' under the Topic Development rubric?",
+    "back": "A marker should be able to state your opinion in one sentence after reading your introduction, without having to guess."
+  },
+  {
+    "id": 466,
+    "domain": "writing_selected_response",
+    "front": "What does it mean for an opinion to be 'consistent' under the Topic Development rubric?",
+    "back": "Your position should not contradict itself, such as arguing for a phone ban in one paragraph and against it in another."
+  },
+  {
+    "id": 467,
+    "domain": "writing_selected_response",
+    "front": "What happens to an essay with a missing or unclear opinion and thin details, according to Chapter 8?",
+    "back": "It lands in the lower bands of the Topic Development rubric no matter how correct the spelling is, since the rubric is about thinking and structure, not surface polish."
+  },
+  {
+    "id": 468,
+    "domain": "writing_selected_response",
+    "front": "Out of how many points is the Conventions rubric scored, and in what increments?",
+    "back": "The Conventions rubric is scored from 0 to 40, in steps of 10."
+  },
+  {
+    "id": 469,
+    "domain": "writing_selected_response",
+    "front": "What does the Conventions rubric actually check, according to Chapter 8?",
+    "back": "Whether errors get in the way of understanding your ideas, since the writing is scored as first-draft writing, not expected to be flawless or publication-level."
+  },
+  {
+    "id": 470,
+    "domain": "writing_selected_response",
+    "front": "What specific length rule affects the Conventions rubric score?",
+    "back": "A response under 30 words automatically scores at the bottom band on the Conventions rubric, regardless of how correct those words are."
+  },
+  {
+    "id": 471,
+    "domain": "writing_selected_response",
+    "front": "Why should you never submit a one or two sentence opinion response, even if very short on time?",
+    "back": "Because a response under 30 words automatically scores at the bottom Conventions band, so writing at least a few full sentences with an opinion and one supporting idea is essential."
+  },
+  {
+    "id": 472,
+    "domain": "writing_selected_response",
+    "front": "What self-check questions should you use during the review step for Topic Development?",
+    "back": "Can I point to the exact sentence stating my opinion? Does my opinion stay the same throughout? Does each body paragraph have a specific detail? Do my paragraphs follow a clear order?"
+  },
+  {
+    "id": 473,
+    "domain": "writing_selected_response",
+    "front": "What self-check questions should you use during the review step for Conventions?",
+    "back": "Is my response well over 30 words? Did I catch obvious spelling slips? Do my sentences make sense when read back? Did I use periods and capital letters correctly?"
+  },
+  {
+    "id": 474,
+    "domain": "writing_selected_response",
+    "front": "In the sample top-band essay about required volunteer hours, what is the writer's stated opinion?",
+    "back": "The writer agrees that a set number of volunteer hours should be required before graduation everywhere."
+  },
+  {
+    "id": 475,
+    "domain": "writing_selected_response",
+    "front": "What is the first reason given in the sample top-band volunteer hours essay?",
+    "back": "Volunteering builds real-world skills, such as communication and responsibility, that are hard to practise in a regular classroom."
+  },
+  {
+    "id": 476,
+    "domain": "writing_selected_response",
+    "front": "What is the second reason given in the sample top-band volunteer hours essay?",
+    "back": "Volunteering connects students to people and situations outside their usual routine, building comfort with unfamiliar situations."
+  },
+  {
+    "id": 477,
+    "domain": "writing_selected_response",
+    "front": "What is the third reason given in the sample top-band volunteer hours essay?",
+    "back": "Volunteering helps students explore possible careers before making major decisions about their future."
+  },
+  {
+    "id": 478,
+    "domain": "writing_selected_response",
+    "front": "Why does the sample top-band essay score well, according to Chapter 8's explanation?",
+    "back": "It states a clear opinion that never wavers, gives one distinct reason per paragraph backed by a specific example, follows a logical order, and stays well over the 30-word minimum with clean spelling and grammar."
+  },
+  {
+    "id": 479,
+    "domain": "writing_selected_response",
+    "front": "What was the main problem with the weak sample paragraph about volunteering in Chapter 8?",
+    "back": "It never gave a single specific example, relying on vague filler phrases like 'learn things' and 'good stuff' that could apply to almost any topic."
+  },
+  {
+    "id": 480,
+    "domain": "writing_selected_response",
+    "front": "How was the weak volunteering paragraph fixed into a strong version?",
+    "back": "By replacing vague phrases with one specific, concrete example, such as a student sorting donations at a clothing drive and learning independent problem-solving."
+  },
+  {
+    "id": 481,
+    "domain": "writing_selected_response",
+    "front": "What single change usually moves a paragraph from the bottom bands to the top bands of the Topic Development rubric?",
+    "back": "Trading vague generalizations for one concrete, specific example that shows exactly what skill is being built and why."
+  },
+  {
+    "id": 482,
+    "domain": "writing_selected_response",
+    "front": "What are the final test-day tips given at the end of Chapter 8?",
+    "back": "Pick your side fast and do not look back, plan your reasons in point form, give each body paragraph one reason with one specific example, keep the introduction and conclusion short, and leave time to review."
+  },
+  {
+    "id": 483,
+    "domain": "writing_selected_response",
+    "front": "Why should you avoid stopping to fix small spelling mistakes while actively writing your opinion essay?",
+    "back": "Stopping to fix small errors mid-draft slows down your writing time, and those errors can be caught and corrected during the dedicated review step at the end."
+  },
+  {
+    "id": 484,
+    "domain": "writing_selected_response",
+    "front": "What is the risk of changing your opinion partway through writing an opinion essay?",
+    "back": "It creates an inconsistent argument that contradicts itself, which directly lowers your score on the Topic Development rubric even if the writing itself is well constructed."
+  },
+  {
+    "id": 485,
+    "domain": "writing_selected_response",
+    "front": "Why does Chapter 8 recommend writing your opinion down as a short plan note before starting the introduction?",
+    "back": "It keeps you from drifting into the other side by accident partway through the essay, which is a common problem when writing quickly under time pressure."
+  },
+  {
+    "id": 486,
+    "domain": "writing_selected_response",
+    "front": "According to Chapter 8, what happens if you cannot think of a personal experience related to the essay topic?",
+    "back": "You can use observation, noticing something in your school or community related to the topic, or use logical reasoning to walk through a cause-and-effect chain instead."
+  },
+  {
+    "id": 487,
+    "domain": "writing_selected_response",
+    "front": "Why is a specific example, like someone who works weekends at a grocery store and learns to manage a schedule, more convincing than a vague claim about part-time jobs teaching responsibility?",
+    "back": "It gives the reader a concrete, picturable scenario showing exactly how the skill is developed, rather than simply asserting the skill exists."
+  },
+  {
+    "id": 488,
+    "domain": "writing_selected_response",
+    "front": "How should you allocate more of your writing effort if you are running short on time during the opinion essay?",
+    "back": "Prioritize two strong, well-developed body paragraphs with real detail over three thin, underdeveloped paragraphs."
+  },
+  {
+    "id": 489,
+    "domain": "writing_selected_response",
+    "front": "What is the danger of an opinion essay that argues well but never actually states a clear opinion sentence?",
+    "back": "A marker cannot identify the writer's position from a single sentence, which lowers the score on the 'clear opinion' component of the Topic Development rubric."
+  },
+  {
+    "id": 490,
+    "domain": "writing_selected_response",
+    "front": "Why does the OSSLT opinion essay reward a simple, repeatable five-paragraph structure?",
+    "back": "A predictable structure keeps the writer organized under time pressure and matches exactly what the Topic Development rubric looks for: a clear opinion and a logical progression of ideas."
+  },
+  {
+    "id": 491,
+    "domain": "writing_selected_response",
+    "front": "What should a conclusion avoid doing when restating the opinion?",
+    "back": "It should avoid repeating the exact same wording used in the introduction, instead restating the opinion in different words while briefly summing up the main reasons."
+  },
+  {
+    "id": 492,
+    "domain": "writing_selected_response",
+    "front": "Why is 'a few spelling mistakes here and there' not necessarily damaging to a Conventions score?",
+    "back": "As long as a reader can still follow what is being said without confusion, occasional small mistakes will not sink the score, since the rubric checks first-draft writing, not flawless writing."
+  },
+  {
+    "id": 493,
+    "domain": "writing_selected_response",
+    "front": "What kind of error does hurt a Conventions score even in first-draft writing?",
+    "back": "A pattern of errors that makes meaning unclear, or sentences so tangled that a reader has to stop and reread to figure out what was meant."
+  },
+  {
+    "id": 494,
+    "domain": "writing_selected_response",
+    "front": "According to Chapter 8, why should you practise timing your essay-writing at home before test day?",
+    "back": "So the rhythm of planning, writing, and reviewing feels familiar, and you are not guessing about pacing for the first time during the actual test."
+  },
+  {
+    "id": 495,
+    "domain": "writing_selected_response",
+    "front": "What is the relationship between the paragraph-building skills from Chapter 7 and the opinion essay's body paragraphs?",
+    "back": "Each body paragraph of the opinion essay follows the same claim-plus-specific-support pattern taught in Chapter 7, just repeated across two or three separate reasons."
+  },
+  {
+    "id": 496,
+    "domain": "writing_selected_response",
+    "front": "Why is committing to a side you can argue well considered more important than personally agreeing with it?",
+    "back": "Because the exam measures your ability to build and support an argument clearly and consistently, not which side of a debate you personally hold in real life."
+  },
+  {
+    "id": 497,
+    "domain": "writing_selected_response",
+    "front": "What happens to an opinion essay's score if its body paragraphs are well written but its introduction never clearly states an opinion?",
+    "back": "The Topic Development score suffers, since a marker must be able to identify the writer's opinion clearly from the introduction, regardless of how strong the body paragraphs are."
+  },
+  {
+    "id": 498,
+    "domain": "writing_selected_response",
+    "front": "Why does Chapter 6 say the OSSLT is not trying to catch you out on every tiny slip?",
+    "back": "Because the test checks whether your writing communicates clearly, so it focuses on whether convention errors get in the way of that communication rather than punishing every minor mistake."
+  },
+  {
+    "id": 499,
+    "domain": "writing_selected_response",
+    "front": "What is the difference between fixing a sentence-level convention error and fixing a paragraph-level organization error?",
+    "back": "A sentence-level fix corrects grammar, punctuation, or spelling within one sentence, while a paragraph-level fix addresses how ideas are arranged, ordered, or connected across multiple sentences."
+  },
+  {
+    "id": 500,
+    "domain": "writing_selected_response",
+    "front": "Why should a reviewer of an opinion essay check that the conclusion's restated opinion matches the introduction's stated opinion?",
+    "back": "Because an opinion that shifts or contradicts itself between the introduction and conclusion directly lowers the score on the Topic Development rubric's consistency requirement."
+  }
+]
